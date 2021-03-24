@@ -1,1 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T15:13:23.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.5.1" etag="VskY30Slr25vfMm0gTQs" type="github"><diagram id="MPG3pTVmDDYES2vwHIhU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-24T15:29:31.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="10_dT7hf7GOJRM_mTvoH" version="14.5.1" type="github">
+  <diagram id="MPG3pTVmDDYES2vwHIhU" name="第 1 页">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-29" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="120" as="sourcePoint" />
+            <mxPoint x="80" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-30" value="&lt;font style=&quot;font-size: 16px&quot;&gt;受限制直接运行协议(时钟中断)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-31" value="&lt;font style=&quot;font-size: 16px&quot;&gt;操作系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="860" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="200" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-33" value="&lt;span style=&quot;font-size: 16px&quot;&gt;操作系统启动（内核模式）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-34" value="&lt;span style=&quot;font-size: 16px&quot;&gt;初始化陷阱表&lt;br&gt;（trap table）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-36" value="&lt;span style=&quot;font-size: 16px&quot;&gt;启动中断时钟&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="281" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="200" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-38" value="&lt;span style=&quot;font-size: 16px&quot;&gt;硬件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-39" value="&lt;span style=&quot;font-size: 16px&quot;&gt;记住以下地址：&lt;br&gt;&amp;nbsp; &amp;nbsp; 系统调用处理程序&lt;br&gt;&amp;nbsp; &amp;nbsp; 时钟处理程序&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-40" value="&lt;font style=&quot;font-size: 16px&quot;&gt;启动时钟：&lt;br&gt;每个x ms 中断CPU&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="1">
+          <mxGeometry x="320" y="321" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-44" value="&lt;span style=&quot;font-size: 16px&quot;&gt;时钟中断&lt;br&gt;将寄存器（A）保存到内存栈（A）&lt;br&gt;转向内核模式&lt;br&gt;跳转到陷阱处理程序&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="320" y="440" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-46" value="&lt;font style=&quot;font-size: 16px&quot;&gt;硬件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="860" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="200" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-51" value="&lt;font style=&quot;font-size: 16px&quot;&gt;应用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="860" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-52" value="&lt;font style=&quot;font-size: 16px&quot;&gt;时间线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="410" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-53" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="20" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-54" value="（1）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="46" y="167" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-56" value="（2）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="39" y="551" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-57" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="84" y="410" width="20" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-58" value="（3）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="49" y="760" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-61" value="&lt;span style=&quot;font-size: 16px&quot;&gt;操作系统运行（内核模式）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="361" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-62" value="&lt;span style=&quot;font-size: 16px&quot;&gt;硬件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="361" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-63" value="&lt;span style=&quot;font-size: 16px&quot;&gt;处理陷阱&lt;br&gt;调用switch()例程&lt;br&gt;&amp;nbsp; &amp;nbsp; 将寄存器A保存到进程结构A&lt;br&gt;&amp;nbsp; &amp;nbsp; 将进程结构B恢复到寄存器B&lt;br&gt;&amp;nbsp; &amp;nbsp; 从陷阱返回（进入B）&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="560" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-64" value="&lt;font style=&quot;font-size: 16px&quot;&gt;从内核B恢复寄存器B&lt;br&gt;转向用户模式&lt;br&gt;跳转到B的程序计数器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="320" y="720" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-65" value="&lt;span style=&quot;font-size: 16px&quot;&gt;程序（应用模式）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="361" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-66" value="&lt;span style=&quot;font-size: 16px&quot;&gt;进程A ...&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-67" value="&lt;span style=&quot;font-size: 16px&quot;&gt;进程B ...&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="800" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JWxe-Pxq4RW97bfnAFdc-68" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="730" width="20" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
