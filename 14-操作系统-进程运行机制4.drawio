@@ -1,1 +1,109 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T14:20:07.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.5.1" etag="k92jpanGR8NNN-9aocRR" type="github"><diagram id="9S31oUpAlJBBgJgFHuUD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-24T14:55:52.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="NBJB_iJJ2DtqfXs--SyG" version="14.5.1" type="github">
+  <diagram id="9S31oUpAlJBBgJgFHuUD" name="第 1 页">
+    <mxGraphModel dx="1422" dy="706" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-20" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="120" as="sourcePoint" />
+            <mxPoint x="80" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-21" value="&lt;font style=&quot;font-size: 16px&quot;&gt;受限制直接运行协议&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="80" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-23" value="&lt;font style=&quot;font-size: 16px&quot;&gt;操作系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="860" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="200" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-27" value="&lt;span style=&quot;font-size: 16px&quot;&gt;操作系统启动（内核模式）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-28" value="&lt;span style=&quot;font-size: 16px&quot;&gt;初始化陷阱表&lt;br&gt;（trap table）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;1.在进程列表创建条目&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;2.为程序分配内存&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;3.将程序加载到内存中&lt;/span&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;4.根据 argc/argv 设置程序栈&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-33" value="&lt;span style=&quot;font-size: 16px&quot;&gt;操作系统运行（内核模式）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="200" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-35" value="&lt;span style=&quot;font-size: 16px&quot;&gt;硬件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-36" value="&lt;span style=&quot;font-size: 16px&quot;&gt;记住系统调用处理程序地址&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-37" value="&lt;font style=&quot;font-size: 16px&quot;&gt;从内核栈恢复寄存器&lt;br&gt;转向用户模式&lt;br&gt;跳到main&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="1">
+          <mxGeometry x="320" y="390" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-38" value="&lt;span style=&quot;font-size: 16px&quot;&gt;硬件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-39" value="&lt;span style=&quot;font-size: 16px&quot;&gt;将寄存器保存在内核栈&lt;br&gt;转向内核模式&lt;br&gt;跳转到陷阱处理程序&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-40" value="&lt;span style=&quot;font-size: 16px&quot;&gt;处理陷阱&lt;br&gt;做系统调用工作&lt;br&gt;从陷阱返回&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="600" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-41" value="&lt;span style=&quot;font-size: 16px&quot;&gt;从内核恢复寄存器&lt;br&gt;转向用户模式&lt;br&gt;跳到陷阱之后的程序计数器&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="320" y="680" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-42" value="&lt;span style=&quot;font-size: 16px&quot;&gt;释放进程的内存&lt;br&gt;将进程从进程列表删除&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="120" y="800" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-43" value="&lt;font style=&quot;font-size: 16px&quot;&gt;硬件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="860" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="200" height="720" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-45" value="&lt;span style=&quot;font-size: 16px&quot;&gt;程序（应用模式）&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-46" value="&lt;font style=&quot;font-size: 16px&quot;&gt;运行main&lt;br&gt;...&lt;br&gt;调用系统调用陷入操作系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="450" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-47" value="&lt;span style=&quot;font-size: 16px&quot;&gt;...从main返回&lt;br&gt;陷入（通过exit）&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="760" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-48" value="&lt;font style=&quot;font-size: 16px&quot;&gt;应用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="860" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-49" value="&lt;font style=&quot;font-size: 16px&quot;&gt;时间线&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="410" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-50" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-51" value="（1）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="46" y="167" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-53" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="282" width="20" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-54" value="（2）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="43" y="356" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-55" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="84" y="459" width="20" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-56" value="（3）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="46" y="560" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-57" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fillColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="84" y="694" width="20" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="KioIZx-WXz5c-rFkQ__5-58" value="（4）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="43" y="760" width="41" height="18" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
