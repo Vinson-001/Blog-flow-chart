@@ -1,1 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T01:23:27.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" version="14.6.1" etag="nPZ38opoSdbgvn5h8P65" type="github"><diagram id="bs1kzHZHhOK_201mZCV1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-16T01:39:06.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="EF8RY8X2FyDgHfX4YW8m" version="14.6.1" type="github">
+  <diagram id="bs1kzHZHhOK_201mZCV1" name="第 1 页">
+    <mxGraphModel dx="868" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PgKri2lGjqEwnihmv5vd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PgKri2lGjqEwnihmv5vd-1" target="PgKri2lGjqEwnihmv5vd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKri2lGjqEwnihmv5vd-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;类设备驱动&lt;br&gt;class driver&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKri2lGjqEwnihmv5vd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PgKri2lGjqEwnihmv5vd-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PgKri2lGjqEwnihmv5vd-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;类设备驱动&lt;br&gt;class driver&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKri2lGjqEwnihmv5vd-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PgKri2lGjqEwnihmv5vd-3" target="PgKri2lGjqEwnihmv5vd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKri2lGjqEwnihmv5vd-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;USB备驱动&lt;br&gt;USB device driver&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="180" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKri2lGjqEwnihmv5vd-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;主机控制器驱动&lt;br&gt;HDC&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="180" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKri2lGjqEwnihmv5vd-7" value="&lt;b&gt;...&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="219" y="60" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKri2lGjqEwnihmv5vd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PgKri2lGjqEwnihmv5vd-12" target="PgKri2lGjqEwnihmv5vd-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKri2lGjqEwnihmv5vd-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;设备功能驱动&lt;br&gt;Function driver&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKri2lGjqEwnihmv5vd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PgKri2lGjqEwnihmv5vd-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PgKri2lGjqEwnihmv5vd-14" value="&lt;font style=&quot;font-size: 14px&quot;&gt;设备功能驱动&lt;br&gt;Function driver&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKri2lGjqEwnihmv5vd-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PgKri2lGjqEwnihmv5vd-16" target="PgKri2lGjqEwnihmv5vd-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKri2lGjqEwnihmv5vd-16" value="&lt;font style=&quot;font-size: 14px&quot;&gt;USB备驱动&lt;br&gt;USB device driver&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="580" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKri2lGjqEwnihmv5vd-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;主机控制器驱动&lt;br&gt;HDC&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="580" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKri2lGjqEwnihmv5vd-18" value="&lt;b&gt;...&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="619" y="60" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
