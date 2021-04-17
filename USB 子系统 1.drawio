@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-16T01:40:29.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="pFBUT27xUwNno38y9EBP" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-17T02:27:07.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="1ZQgDqVxR-jWnpNl-hVG" version="14.6.1" type="github">
   <diagram id="bs1kzHZHhOK_201mZCV1" name="第 1 页">
     <mxGraphModel dx="868" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,6 +23,14 @@
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;USB备驱动&lt;br&gt;USB device driver&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="180" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKri2lGjqEwnihmv5vd-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=1;startArrow=block;startFill=1;" edge="1" parent="1" source="PgKri2lGjqEwnihmv5vd-5" target="PgKri2lGjqEwnihmv5vd-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="380" />
+              <mxPoint x="640" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;主机控制器驱动&lt;br&gt;HDC&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="180" y="260" width="120" height="60" as="geometry" />
@@ -55,6 +63,21 @@
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-18" value="&lt;b&gt;...&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="619" y="60" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKri2lGjqEwnihmv5vd-19" value="USB 线" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="390" width="46" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKri2lGjqEwnihmv5vd-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="30" width="350" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKri2lGjqEwnihmv5vd-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="30" width="350" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKri2lGjqEwnihmv5vd-25" value="主机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="46" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PgKri2lGjqEwnihmv5vd-26" value="设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="310" width="46" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
