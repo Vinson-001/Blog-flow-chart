@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-17T02:27:07.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="1ZQgDqVxR-jWnpNl-hVG" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-17T02:27:30.337Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="8nrCYVCOFQqQ3-ru0YFV" version="14.6.1" type="github">
   <diagram id="bs1kzHZHhOK_201mZCV1" name="第 1 页">
-    <mxGraphModel dx="868" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,76 +8,76 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;类设备驱动&lt;br&gt;class driver&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PgKri2lGjqEwnihmv5vd-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="160" as="targetPoint" />
+            <mxPoint x="240" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;类设备驱动&lt;br&gt;class driver&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="280" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PgKri2lGjqEwnihmv5vd-3" target="PgKri2lGjqEwnihmv5vd-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;USB备驱动&lt;br&gt;USB device driver&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="180" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=1;startArrow=block;startFill=1;" edge="1" parent="1" source="PgKri2lGjqEwnihmv5vd-5" target="PgKri2lGjqEwnihmv5vd-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="380" />
-              <mxPoint x="640" y="380" />
+              <mxPoint x="240" y="440" />
+              <mxPoint x="640" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;主机控制器驱动&lt;br&gt;HDC&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="180" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-7" value="&lt;b&gt;...&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="219" y="60" width="40" height="20" as="geometry" />
+          <mxGeometry x="219" y="120" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PgKri2lGjqEwnihmv5vd-12" target="PgKri2lGjqEwnihmv5vd-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;设备功能驱动&lt;br&gt;Function driver&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="480" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PgKri2lGjqEwnihmv5vd-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="160" as="targetPoint" />
+            <mxPoint x="640" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-14" value="&lt;font style=&quot;font-size: 14px&quot;&gt;设备功能驱动&lt;br&gt;Function driver&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="680" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PgKri2lGjqEwnihmv5vd-16" target="PgKri2lGjqEwnihmv5vd-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-16" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Gadget设备驱动&lt;br&gt;Gadget device driver&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="560" y="160" width="160" height="60" as="geometry" />
+          <mxGeometry x="560" y="220" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;设备控制器驱动&lt;br&gt;UDC&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="560" y="260" width="160" height="60" as="geometry" />
+          <mxGeometry x="560" y="320" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-18" value="&lt;b&gt;...&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="619" y="60" width="40" height="20" as="geometry" />
+          <mxGeometry x="619" y="120" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-19" value="USB 线" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="390" width="46" height="20" as="geometry" />
+          <mxGeometry x="420" y="450" width="46" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="30" width="350" height="310" as="geometry" />
+          <mxGeometry x="70" y="90" width="350" height="310" as="geometry" />
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="30" width="350" height="310" as="geometry" />
+          <mxGeometry x="460" y="90" width="350" height="310" as="geometry" />
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-25" value="主机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="310" width="46" height="20" as="geometry" />
+          <mxGeometry x="340" y="370" width="46" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PgKri2lGjqEwnihmv5vd-26" value="设备" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="310" width="46" height="20" as="geometry" />
+          <mxGeometry x="500" y="370" width="46" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
