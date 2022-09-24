@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-24T07:55:42.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="ThiIBQCeJ8XRniD-sE0u" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-24T07:58:02.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="xOEdJF9ndzONMNeQcww8" version="20.3.6" type="github">
   <diagram id="71Rz95wQpn5zVg0QbRse" name="第 1 页">
     <mxGraphModel dx="1422" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -190,8 +190,8 @@
         <mxCell id="HrFU1trKESRWzAMs8E7i-122" value="beq 指令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="84" y="520" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HrFU1trKESRWzAMs8E7i-123" value="STORE指令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="500" y="950" width="90" height="30" as="geometry" />
+        <mxCell id="HrFU1trKESRWzAMs8E7i-123" value="条件跳转指令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="359" y="776" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HrFU1trKESRWzAMs8E7i-149" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="160" y="520" width="480" height="40" as="geometry" />
