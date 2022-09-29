@@ -1,14 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T06:23:14.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="_EIF0nrJzGFC1EnDDHwe" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-29T06:31:38.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="JQnbgdx-riu5ZrkPVZ8U" version="20.3.6" type="github">
   <diagram id="ikpRoJUo1-H3lq5DzueL" name="第 1 页">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5GHYoXlTE_2bfeFaf-T6-1" value="设备描述符" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="120" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5GHYoXlTE_2bfeFaf-T6-2" value="配置描述符" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5GHYoXlTE_2bfeFaf-T6-3" value="IAD&amp;nbsp; &amp;nbsp; I/F" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5GHYoXlTE_2bfeFaf-T6-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="360" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="5GHYoXlTE_2bfeFaf-T6-4" value="VideoControl&amp;nbsp; &amp;nbsp;I/F" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5GHYoXlTE_2bfeFaf-T6-10">
+          <mxGeometry width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5GHYoXlTE_2bfeFaf-T6-6" value="Input Terminal&amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5GHYoXlTE_2bfeFaf-T6-10">
+          <mxGeometry y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5GHYoXlTE_2bfeFaf-T6-7" value="process uint&amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5GHYoXlTE_2bfeFaf-T6-10">
+          <mxGeometry y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5GHYoXlTE_2bfeFaf-T6-8" value="output terniaml&amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5GHYoXlTE_2bfeFaf-T6-10">
+          <mxGeometry y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5GHYoXlTE_2bfeFaf-T6-9" value="interrupt endpoint" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="5GHYoXlTE_2bfeFaf-T6-10">
+          <mxGeometry y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5GHYoXlTE_2bfeFaf-T6-11" value="VideoStream&amp;nbsp; &amp;nbsp; I/F" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5GHYoXlTE_2bfeFaf-T6-12" value="Header" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5GHYoXlTE_2bfeFaf-T6-13" value="Foramt1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="360" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5GHYoXlTE_2bfeFaf-T6-14" value="Frame1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="360" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5GHYoXlTE_2bfeFaf-T6-15" value="Frame2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5GHYoXlTE_2bfeFaf-T6-16" value="still image" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="360" y="560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5GHYoXlTE_2bfeFaf-T6-17" value="Foramt2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5GHYoXlTE_2bfeFaf-T6-18" value="Frame1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5GHYoXlTE_2bfeFaf-T6-19" value="Frame2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5GHYoXlTE_2bfeFaf-T6-20" value="still image" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5GHYoXlTE_2bfeFaf-T6-21" value="color matching" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="760" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
