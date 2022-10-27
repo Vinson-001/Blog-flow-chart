@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T13:08:43.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="Jem13cqB1y8mu7y6oa-G" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T13:12:24.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="I0B3TUjYg1O1mo6QT-k7" version="20.4.2" type="github">
   <diagram id="NXhFafC3pkW00RlGWNQT" name="第 1 页">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -266,6 +266,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="oarNNeKdy15qIypyYPPy-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="oarNNeKdy15qIypyYPPy-98" target="oarNNeKdy15qIypyYPPy-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oarNNeKdy15qIypyYPPy-98" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="1215" y="995" width="10" height="10" as="geometry" />
         </mxCell>
@@ -273,6 +276,26 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="470" y="1000" as="sourcePoint" />
             <mxPoint x="1220" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oarNNeKdy15qIypyYPPy-100" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="458" y="1040" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oarNNeKdy15qIypyYPPy-101" value="soc_probe_dai(codec_dais[i])" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="oarNNeKdy15qIypyYPPy-100" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="463" y="1020" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="493" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oarNNeKdy15qIypyYPPy-102" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="1215" y="1043" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oarNNeKdy15qIypyYPPy-103" value="cpu_dau-&amp;gt;driver-&amp;gt;probe(codec_dai)" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;align=left;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="467" y="1049" as="sourcePoint" />
+            <mxPoint x="1217" y="1049" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
