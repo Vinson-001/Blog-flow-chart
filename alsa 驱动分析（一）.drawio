@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T12:44:35.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="iPr8Xv89F6IwwIcifUv1" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T13:02:13.704Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="O8CbouyT4aeMwU50StcJ" version="20.4.2" type="github">
   <diagram id="NXhFafC3pkW00RlGWNQT" name="第 1 页">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,13 +26,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oarNNeKdy15qIypyYPPy-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="440" y="180" width="10" height="850" as="geometry" />
+          <mxGeometry x="440" y="180" width="10" height="930" as="geometry" />
         </mxCell>
         <mxCell id="oarNNeKdy15qIypyYPPy-28" value="soc-core" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="40" width="100" height="140" as="geometry" />
         </mxCell>
         <mxCell id="oarNNeKdy15qIypyYPPy-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="445" y="240" width="10" height="730" as="geometry" />
+          <mxGeometry x="445" y="240" width="10" height="820" as="geometry" />
         </mxCell>
         <mxCell id="oarNNeKdy15qIypyYPPy-30" value="snd_soc_register_card()" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="oarNNeKdy15qIypyYPPy-29" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -99,7 +99,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oarNNeKdy15qIypyYPPy-46" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="450" y="500" width="10" height="430" as="geometry" />
+          <mxGeometry x="450" y="500" width="10" height="540" as="geometry" />
         </mxCell>
         <mxCell id="oarNNeKdy15qIypyYPPy-47" value="snd_soc_instantiate_card(card)" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="oarNNeKdy15qIypyYPPy-46" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -204,8 +204,8 @@
             <mxPoint x="537" y="824.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oarNNeKdy15qIypyYPPy-82" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="455" y="860" width="10" height="40" as="geometry" />
+        <mxCell id="oarNNeKdy15qIypyYPPy-82" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="455" y="860" width="10" height="70" as="geometry" />
         </mxCell>
         <mxCell id="oarNNeKdy15qIypyYPPy-83" value="soc_probe_link_component()" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="oarNNeKdy15qIypyYPPy-82" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -214,6 +214,46 @@
               <mxPoint x="490" y="840" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oarNNeKdy15qIypyYPPy-84" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="460" y="890" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oarNNeKdy15qIypyYPPy-85" value="soc_probe_component()" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="oarNNeKdy15qIypyYPPy-84" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="870" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="495" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oarNNeKdy15qIypyYPPy-88" value="snd_soc_component" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="960" y="40" width="120" height="860" as="geometry" />
+        </mxCell>
+        <mxCell id="oarNNeKdy15qIypyYPPy-89" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="900" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oarNNeKdy15qIypyYPPy-90" value="component-&amp;gt;probe(component)" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1.3;exitY=0.533;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oarNNeKdy15qIypyYPPy-84">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="935" y="904.5" as="sourcePoint" />
+            <mxPoint x="1015" y="904.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oarNNeKdy15qIypyYPPy-92" value="依次是cpu_dai/codec_dai/paltform" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="860" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oarNNeKdy15qIypyYPPy-93" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="454.5" y="960" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oarNNeKdy15qIypyYPPy-94" value="soc_probe_link_dais()" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;" edge="1" target="oarNNeKdy15qIypyYPPy-93" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="459.5" y="940" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="489.5" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oarNNeKdy15qIypyYPPy-95" value="snd_soc_dai" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="40" width="120" height="860" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
