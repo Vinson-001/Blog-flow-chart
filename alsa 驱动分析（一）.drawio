@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-29T06:09:34.076Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="2RlkDBd0JQGgmuDNIgym" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-29T06:11:36.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="WJbECQ4I_E9h_tqpxmjr" version="20.5.1" type="github">
   <diagram id="NXhFafC3pkW00RlGWNQT" name="第 1 页">
     <mxGraphModel dx="1422" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,17 +7,20 @@
         <mxCell id="Las0jzsuFajrI9BWyM8r-88" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="86" y="79" width="1030" height="1560" as="geometry" />
         </mxCell>
-        <mxCell id="oarNNeKdy15qIypyYPPy-64" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Las0jzsuFajrI9BWyM8r-88" vertex="1">
-          <mxGeometry x="103" y="608" width="10" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="oarNNeKdy15qIypyYPPy-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="Las0jzsuFajrI9BWyM8r-88" vertex="1">
-          <mxGeometry x="10" y="161" width="10" height="1359" as="geometry" />
+        <mxCell id="Las0jzsuFajrI9BWyM8r-91" value="ASoc" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fontColor=#000000;fillColor=none;" vertex="1" parent="Las0jzsuFajrI9BWyM8r-88">
+          <mxGeometry x="-30" y="-39" width="1050" height="1599" as="geometry" />
         </mxCell>
         <mxCell id="oarNNeKdy15qIypyYPPy-18" value="sound/core/" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="Las0jzsuFajrI9BWyM8r-88" vertex="1">
           <mxGeometry x="57" y="41" width="100" height="1479" as="geometry" />
         </mxCell>
         <mxCell id="Las0jzsuFajrI9BWyM8r-80" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="oarNNeKdy15qIypyYPPy-18">
           <mxGeometry x="45" y="441.5" width="10" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="oarNNeKdy15qIypyYPPy-64" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#d5e8d4;strokeColor=#82b366;" parent="Las0jzsuFajrI9BWyM8r-88" vertex="1">
+          <mxGeometry x="103" y="608" width="10" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="oarNNeKdy15qIypyYPPy-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="Las0jzsuFajrI9BWyM8r-88" vertex="1">
+          <mxGeometry x="10" y="161" width="10" height="1359" as="geometry" />
         </mxCell>
         <mxCell id="oarNNeKdy15qIypyYPPy-23" value="platform_bus" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="Las0jzsuFajrI9BWyM8r-88" vertex="1">
           <mxGeometry y="41" width="30" height="60" as="geometry" />
@@ -488,9 +491,6 @@
               <mxPoint x="40" y="29" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Las0jzsuFajrI9BWyM8r-91" value="ASoc" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;fontColor=#000000;fillColor=none;" vertex="1" parent="Las0jzsuFajrI9BWyM8r-88">
-          <mxGeometry x="-30" y="-39" width="1050" height="1599" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
