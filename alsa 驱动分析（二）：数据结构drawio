@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-29T08:41:48.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="8Wh487cCOUcmSqo98b6q" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-29T08:50:52.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="AcMaSKhkCe_nDa4sw6AI" version="20.5.1" type="github">
   <diagram id="7DYp4aPCKh3Cd0L0TTWG" name="第 1 页">
     <mxGraphModel dx="1422" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -170,7 +170,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7MuIFdLLHVn4OjUo-XND-95" value="struct snd_soc_component" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=default;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="440" y="840" width="280" height="268" as="geometry" />
+          <mxGeometry x="80" y="1000" width="280" height="268" as="geometry" />
         </mxCell>
         <mxCell id="7MuIFdLLHVn4OjUo-XND-96" value="+ name: const char *name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" vertex="1" parent="7MuIFdLLHVn4OjUo-XND-95">
           <mxGeometry y="26" width="280" height="26" as="geometry" />
@@ -244,7 +244,7 @@
           <mxGeometry x="675" y="285" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7MuIFdLLHVn4OjUo-XND-119" value="struct snd_soc_dai_driver" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=default;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="830" width="240" height="242" as="geometry" />
+          <mxGeometry x="880" y="1040" width="240" height="242" as="geometry" />
         </mxCell>
         <mxCell id="7MuIFdLLHVn4OjUo-XND-120" value="+ name: const char *" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" vertex="1" parent="7MuIFdLLHVn4OjUo-XND-119">
           <mxGeometry y="26" width="240" height="26" as="geometry" />
