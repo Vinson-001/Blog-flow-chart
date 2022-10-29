@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T12:13:16.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="00A5lnKHMiTQbBjXCDfh" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-29T03:14:55.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="Uu_zRvYgkUOqrTqM0quv" version="20.5.1" type="github">
   <diagram id="NXhFafC3pkW00RlGWNQT" name="第 1 页">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -353,6 +353,9 @@
             <mxPoint x="475" y="1200" as="sourcePoint" />
             <mxPoint x="1225" y="1200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Las0jzsuFajrI9BWyM8r-15" value="card-&amp;gt;rtd[i].dai_link = &amp;amp;card-&amp;gt;dai_link[i]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="474.5" y="456" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
