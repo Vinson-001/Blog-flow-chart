@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-29T07:29:34.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="620rmI6213rg_JN_X1iE" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-29T08:02:43.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="8HjnphAfiFANupusrZ5S" version="20.5.1" type="github">
   <diagram id="7DYp4aPCKh3Cd0L0TTWG" name="第 1 页">
     <mxGraphModel dx="1422" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -150,6 +150,24 @@
               <mxPoint x="210" y="300" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7MuIFdLLHVn4OjUo-XND-88" value="struct snd_soc_dai_link_component" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=default;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="840" width="230" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="7MuIFdLLHVn4OjUo-XND-89" value="+ name: const char *" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" vertex="1" parent="7MuIFdLLHVn4OjUo-XND-88">
+          <mxGeometry y="26" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7MuIFdLLHVn4OjUo-XND-90" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontColor=#000000;" vertex="1" parent="7MuIFdLLHVn4OjUo-XND-88">
+          <mxGeometry y="52" width="230" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="7MuIFdLLHVn4OjUo-XND-91" value="+ of_node: struct device_node *" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" vertex="1" parent="7MuIFdLLHVn4OjUo-XND-88">
+          <mxGeometry y="60" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7MuIFdLLHVn4OjUo-XND-92" value="+ dai_name: const char *" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" vertex="1" parent="7MuIFdLLHVn4OjUo-XND-88">
+          <mxGeometry y="86" width="230" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="7MuIFdLLHVn4OjUo-XND-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.116;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="7MuIFdLLHVn4OjUo-XND-42" target="7MuIFdLLHVn4OjUo-XND-88">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
