@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-12T06:40:36.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="Q-9I6toPCgSq99Q8vpUl" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-12T06:48:26.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="KGIIRThn7V9034wUUVyg" version="20.5.3" type="github" pages="2">
   <diagram id="7DYp4aPCKh3Cd0L0TTWG" name="第 1 页">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -638,7 +638,7 @@
           <mxGeometry x="1390" y="222" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IDHS75_j2vYXa_TJKEb6-64" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;struct snd_soc_dai&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#d79b00;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="360" width="280" height="286" as="geometry" />
+          <mxGeometry x="800" y="360" width="280" height="364" as="geometry" />
         </mxCell>
         <mxCell id="IDHS75_j2vYXa_TJKEb6-65" value="- name: const char*" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="IDHS75_j2vYXa_TJKEb6-64">
           <mxGeometry y="26" width="280" height="26" as="geometry" />
@@ -669,6 +669,39 @@
         </mxCell>
         <mxCell id="IDHS75_j2vYXa_TJKEb6-74" value="- sample_bits: unsigned int" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="IDHS75_j2vYXa_TJKEb6-64">
           <mxGeometry y="260" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IDHS75_j2vYXa_TJKEb6-75" value="- codec: struct snd_soc_codec *" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="IDHS75_j2vYXa_TJKEb6-64">
+          <mxGeometry y="286" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IDHS75_j2vYXa_TJKEb6-76" value="- component: struct snd_soc_component *" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="IDHS75_j2vYXa_TJKEb6-64">
+          <mxGeometry y="312" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IDHS75_j2vYXa_TJKEb6-77" value="- list: struct list_head*" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="IDHS75_j2vYXa_TJKEb6-64">
+          <mxGeometry y="338" width="280" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IDHS75_j2vYXa_TJKEb6-79" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;struct snd_soc_dai_driver&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#d79b00;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="40" width="320" height="208" as="geometry" />
+        </mxCell>
+        <mxCell id="IDHS75_j2vYXa_TJKEb6-80" value="- name: const char*" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="IDHS75_j2vYXa_TJKEb6-79">
+          <mxGeometry y="26" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IDHS75_j2vYXa_TJKEb6-81" value="- ops: const struct snd_soc_dai_ops *" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="IDHS75_j2vYXa_TJKEb6-79">
+          <mxGeometry y="52" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IDHS75_j2vYXa_TJKEb6-82" value="- capture: const struct snd_soc_pcm_stream" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="IDHS75_j2vYXa_TJKEb6-79">
+          <mxGeometry y="78" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IDHS75_j2vYXa_TJKEb6-89" value="- playback: struct snd_soc_pcm_stream" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="IDHS75_j2vYXa_TJKEb6-79">
+          <mxGeometry y="104" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IDHS75_j2vYXa_TJKEb6-83" value="- probe(struct snd_soc_dai *): int" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="IDHS75_j2vYXa_TJKEb6-79">
+          <mxGeometry y="130" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IDHS75_j2vYXa_TJKEb6-84" value="- remove(struct snd_soc_dai&amp;nbsp;*): int" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="IDHS75_j2vYXa_TJKEb6-79">
+          <mxGeometry y="156" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IDHS75_j2vYXa_TJKEb6-85" value="- compress_new(struct snd_soc_pcm_runtime *, int): int" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="IDHS75_j2vYXa_TJKEb6-79">
+          <mxGeometry y="182" width="320" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
