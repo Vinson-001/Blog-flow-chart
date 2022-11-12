@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-12T08:21:51.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="nrguoKZC2pmtULJs4N98" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-12T08:29:47.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="K8kzgKOpMSQ5qrHTBZpt" version="20.5.3" type="github" pages="2">
   <diagram id="7DYp4aPCKh3Cd0L0TTWG" name="第 1 页">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -361,12 +361,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nZMF6cf_MDIm3Uji4MZk" name="第 2 页">
-    <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IDHS75_j2vYXa_TJKEb6-215" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="80" y="121" width="1531" height="1939" as="geometry" />
+          <mxGeometry x="80" y="199" width="1531" height="1939" as="geometry" />
         </mxCell>
         <mxCell id="NXHciqQnf7pGyPIKIK8r-21" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;struct snd_soc_card&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#d79b00;html=1;" parent="IDHS75_j2vYXa_TJKEb6-215" vertex="1">
           <mxGeometry y="1601" width="1480" height="338" as="geometry" />
@@ -961,7 +961,7 @@
           <mxGeometry x="1481" y="69" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IDHS75_j2vYXa_TJKEb6-216" value="ASoc Class" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1">
-          <mxGeometry x="60" y="80" width="1540" height="2000" as="geometry" />
+          <mxGeometry x="60" y="158" width="1540" height="2000" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
