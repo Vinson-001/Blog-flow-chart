@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-12T05:43:09.285Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="IeoyIRklus7y1rQAj_Ma" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-12T05:50:51.302Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="1acSbkL0hD88jUkye19e" version="20.5.3" type="github" pages="2">
   <diagram id="7DYp4aPCKh3Cd0L0TTWG" name="第 1 页">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -446,7 +446,7 @@
           <mxGeometry y="260" width="279" height="26" as="geometry" />
         </mxCell>
         <mxCell id="WAmHSvGM26PGXSxopFK7-1" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;struct snd_soc_dai_link&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#d79b00;html=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="490" width="279" height="312" as="geometry" />
+          <mxGeometry x="760" y="280" width="279" height="390" as="geometry" />
         </mxCell>
         <mxCell id="WAmHSvGM26PGXSxopFK7-2" value="- name: const char *" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="WAmHSvGM26PGXSxopFK7-1" vertex="1">
           <mxGeometry y="26" width="279" height="26" as="geometry" />
@@ -457,35 +457,41 @@
         <mxCell id="WAmHSvGM26PGXSxopFK7-4" value="- cpu_name: const char *" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="WAmHSvGM26PGXSxopFK7-1" vertex="1">
           <mxGeometry y="78" width="279" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WAmHSvGM26PGXSxopFK7-5" value="- cpu_dai_name: const char *" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="WAmHSvGM26PGXSxopFK7-1" vertex="1">
+        <mxCell id="WAmHSvGM26PGXSxopFK7-12" value="- cpu_of_node: struct device_node *" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="WAmHSvGM26PGXSxopFK7-1" vertex="1">
           <mxGeometry y="104" width="279" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WAmHSvGM26PGXSxopFK7-6" value="- codec_name: const char *" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="WAmHSvGM26PGXSxopFK7-1" vertex="1">
+        <mxCell id="WAmHSvGM26PGXSxopFK7-5" value="- cpu_dai_name: const char *" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="WAmHSvGM26PGXSxopFK7-1" vertex="1">
           <mxGeometry y="130" width="279" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WAmHSvGM26PGXSxopFK7-7" value="- cpu_dai_name: const char *" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="WAmHSvGM26PGXSxopFK7-1" vertex="1">
+        <mxCell id="WAmHSvGM26PGXSxopFK7-6" value="- codec_name: const char *" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="WAmHSvGM26PGXSxopFK7-1" vertex="1">
           <mxGeometry y="156" width="279" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WAmHSvGM26PGXSxopFK7-8" value="- codecs: struct snd_soc_dai_link_component *" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="WAmHSvGM26PGXSxopFK7-1" vertex="1">
+        <mxCell id="IDHS75_j2vYXa_TJKEb6-21" value="- codec_of_node: struct device_node *" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="WAmHSvGM26PGXSxopFK7-1">
           <mxGeometry y="182" width="279" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WAmHSvGM26PGXSxopFK7-9" value="- platform_name: const char *" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="WAmHSvGM26PGXSxopFK7-1" vertex="1">
+        <mxCell id="WAmHSvGM26PGXSxopFK7-7" value="- codec_dai_name: const char *" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="WAmHSvGM26PGXSxopFK7-1" vertex="1">
           <mxGeometry y="208" width="279" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WAmHSvGM26PGXSxopFK7-10" value="- dai_fmt: unsigned int" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="WAmHSvGM26PGXSxopFK7-1" vertex="1">
+        <mxCell id="WAmHSvGM26PGXSxopFK7-8" value="- codecs: struct snd_soc_dai_link_component *" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="WAmHSvGM26PGXSxopFK7-1" vertex="1">
           <mxGeometry y="234" width="279" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WAmHSvGM26PGXSxopFK7-11" value="- ops: const struct snd_soc_ops *" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="WAmHSvGM26PGXSxopFK7-1" vertex="1">
+        <mxCell id="WAmHSvGM26PGXSxopFK7-9" value="- platform_name: const char *" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="WAmHSvGM26PGXSxopFK7-1" vertex="1">
           <mxGeometry y="260" width="279" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WAmHSvGM26PGXSxopFK7-12" value="- init(struct snd_soc_pcm_runtime): int" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="WAmHSvGM26PGXSxopFK7-1" vertex="1">
+        <mxCell id="IDHS75_j2vYXa_TJKEb6-22" value="- platform_of_node: struct device_node *" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="WAmHSvGM26PGXSxopFK7-1">
           <mxGeometry y="286" width="279" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WAmHSvGM26PGXSxopFK7-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.233;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=open;endFill=0;" parent="1" source="NXHciqQnf7pGyPIKIK8r-39" target="WAmHSvGM26PGXSxopFK7-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WAmHSvGM26PGXSxopFK7-10" value="- dai_fmt: unsigned int" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="WAmHSvGM26PGXSxopFK7-1" vertex="1">
+          <mxGeometry y="312" width="279" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="WAmHSvGM26PGXSxopFK7-11" value="- ops: const struct snd_soc_ops *" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="WAmHSvGM26PGXSxopFK7-1" vertex="1">
+          <mxGeometry y="338" width="279" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IDHS75_j2vYXa_TJKEb6-20" value="- init(struct snd_soc_pcm_runtime): int" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="WAmHSvGM26PGXSxopFK7-1">
+          <mxGeometry y="364" width="279" height="26" as="geometry" />
         </mxCell>
         <mxCell id="WAmHSvGM26PGXSxopFK7-19" value="+ dai_link" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="750" y="802" width="70" height="30" as="geometry" />
+          <mxGeometry x="780" y="790" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WAmHSvGM26PGXSxopFK7-21" value="- dai_link" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="990" y="802" width="70" height="30" as="geometry" />
