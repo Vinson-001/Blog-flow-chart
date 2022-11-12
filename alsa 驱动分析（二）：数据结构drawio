@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-12T07:30:40.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="he5FIO7ER3iBTLtEMYWC" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-12T07:34:26.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="zi7KfwrkD6CwF0wBy-CW" version="20.5.3" type="github" pages="2">
   <diagram id="7DYp4aPCKh3Cd0L0TTWG" name="第 1 页">
     <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -618,7 +618,7 @@
           <mxGeometry y="156" width="320" height="26" as="geometry" />
         </mxCell>
         <mxCell id="IDHS75_j2vYXa_TJKEb6-44" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;struct snd_soc_ops&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#d79b00;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="40" width="320" height="182" as="geometry" />
+          <mxGeometry x="1720" y="120" width="320" height="182" as="geometry" />
         </mxCell>
         <mxCell id="IDHS75_j2vYXa_TJKEb6-45" value="- start_up(struct snd_pcm_substream *): int" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="IDHS75_j2vYXa_TJKEb6-44">
           <mxGeometry y="26" width="320" height="26" as="geometry" />
@@ -706,6 +706,9 @@
         </mxCell>
         <mxCell id="IDHS75_j2vYXa_TJKEb6-85" value="- compress_new(struct snd_soc_pcm_runtime *, int): int" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="IDHS75_j2vYXa_TJKEb6-79">
           <mxGeometry y="182" width="320" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="IDHS75_j2vYXa_TJKEb6-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=open;endFill=0;" edge="1" parent="1" source="IDHS75_j2vYXa_TJKEb6-90" target="IDHS75_j2vYXa_TJKEb6-109">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IDHS75_j2vYXa_TJKEb6-90" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;struct snd_soc_component&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#d79b00;html=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="440" width="320" height="494" as="geometry" />
@@ -817,6 +820,15 @@
         </mxCell>
         <mxCell id="IDHS75_j2vYXa_TJKEb6-139" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;- driver&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="328" width="70" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="IDHS75_j2vYXa_TJKEb6-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=open;endFill=0;" edge="1" parent="1" source="IDHS75_j2vYXa_TJKEb6-71" target="IDHS75_j2vYXa_TJKEb6-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IDHS75_j2vYXa_TJKEb6-149" value="- component" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="610" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IDHS75_j2vYXa_TJKEb6-151" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;- driver&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="385" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
