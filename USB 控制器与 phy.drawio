@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T11:34:33.276Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="nixd-MAZcu5puUp2y9cV" version="21.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-05-22T11:44:32.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="oekC_YcsafntAneJRnul" version="21.3.2" type="github" pages="3">
   <diagram name="第 1 页" id="xxSJf9XUhcxgJDXGC-c_">
     <mxGraphModel dx="794" dy="430" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -165,6 +165,64 @@
         </mxCell>
         <mxCell id="OJyycO87UALEh727Kh9x-22" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="372" y="129" width="34" height="79" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="J1YiIJRA_oTHWtZerP6D" name="第 3 页">
+    <mxGraphModel dx="794" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7dIN-izBH4wTkXzd40oj-1" value="Client SW&lt;br&gt;manages an interface" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7dIN-izBH4wTkXzd40oj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.375;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="7dIN-izBH4wTkXzd40oj-2" target="7dIN-izBH4wTkXzd40oj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7dIN-izBH4wTkXzd40oj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="7dIN-izBH4wTkXzd40oj-2" target="7dIN-izBH4wTkXzd40oj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7dIN-izBH4wTkXzd40oj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="7dIN-izBH4wTkXzd40oj-2" target="7dIN-izBH4wTkXzd40oj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7dIN-izBH4wTkXzd40oj-2" value="USB System SW&lt;br&gt;manages devices" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7dIN-izBH4wTkXzd40oj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="7dIN-izBH4wTkXzd40oj-3" target="7dIN-izBH4wTkXzd40oj-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="400" />
+              <mxPoint x="300" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7dIN-izBH4wTkXzd40oj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="7dIN-izBH4wTkXzd40oj-3" target="7dIN-izBH4wTkXzd40oj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7dIN-izBH4wTkXzd40oj-3" value="Host&lt;br&gt;Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7dIN-izBH4wTkXzd40oj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1.025;entryY=0.883;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="7dIN-izBH4wTkXzd40oj-4" target="7dIN-izBH4wTkXzd40oj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7dIN-izBH4wTkXzd40oj-4" value="SIE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="400" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7dIN-izBH4wTkXzd40oj-10" value="USB Framed Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="365" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7dIN-izBH4wTkXzd40oj-12" value="Transactions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="434" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7dIN-izBH4wTkXzd40oj-15" value="USB&lt;br&gt;Framed&lt;br&gt;Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="280" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7dIN-izBH4wTkXzd40oj-16" value="Transfers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7dIN-izBH4wTkXzd40oj-19" value="USB&lt;br&gt;No&lt;br&gt;Framed&lt;br&gt;Data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="115" width="60" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
