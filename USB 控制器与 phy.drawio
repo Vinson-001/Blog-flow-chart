@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T02:32:10.398Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="uDVTe2vUIHKpBABGLOYY" version="21.3.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-05-24T03:04:13.436Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="NsxmEyG2tZvQABUPe3M3" version="21.3.2" type="github" pages="7">
   <diagram name="第 1 页" id="xxSJf9XUhcxgJDXGC-c_">
     <mxGraphModel dx="794" dy="430" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -626,6 +626,38 @@
             <mxPoint x="499.5" y="420.5" as="sourcePoint" />
             <mxPoint x="544.5" y="420.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="D63KqDGnUz_Tp4uOvJwN" name="第 7 页">
+    <mxGraphModel dx="1194" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jGU8s22t_fs3f8PtkvkI-1" value="DDR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jGU8s22t_fs3f8PtkvkI-2" value="OTG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jGU8s22t_fs3f8PtkvkI-3" value="UTMI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jGU8s22t_fs3f8PtkvkI-4" value="PHY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jGU8s22t_fs3f8PtkvkI-5" value="PHY" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jGU8s22t_fs3f8PtkvkI-6" value="UTMI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jGU8s22t_fs3f8PtkvkI-7" value="OTG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jGU8s22t_fs3f8PtkvkI-8" value="DDR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
