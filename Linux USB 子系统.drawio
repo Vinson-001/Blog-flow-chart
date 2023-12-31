@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T13:25:16.715Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="qCqBj3XIcFk1fC6Z7Pcm" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-31T13:26:56.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="dPMQoGQdDNBdRK4O2AO3" version="21.8.2" type="github">
   <diagram name="USBCore" id="3T-yHPeF6XV3hYMny7rR">
     <mxGraphModel dx="1420" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
             <mxPoint x="153" y="73" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qCejchfYv6QgmL-s5eRY-1" value="usb/core" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qCejchfYv6QgmL-s5eRY-61">
+        <mxCell id="qCejchfYv6QgmL-s5eRY-1" value="usb/core" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="qCejchfYv6QgmL-s5eRY-61">
           <mxGeometry x="113" y="24" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qCejchfYv6QgmL-s5eRY-2" value="subsys_initcall" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="qCejchfYv6QgmL-s5eRY-61">
@@ -85,7 +85,7 @@
             <mxPoint x="497" y="474" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qCejchfYv6QgmL-s5eRY-31" value="hub_driver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qCejchfYv6QgmL-s5eRY-61">
+        <mxCell id="qCejchfYv6QgmL-s5eRY-31" value="hub_driver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="qCejchfYv6QgmL-s5eRY-61">
           <mxGeometry x="457" y="24" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qCejchfYv6QgmL-s5eRY-32" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="qCejchfYv6QgmL-s5eRY-61">
@@ -124,7 +124,7 @@
             <mxPoint x="777" y="644" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qCejchfYv6QgmL-s5eRY-40" value="usb_generic_driver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qCejchfYv6QgmL-s5eRY-61">
+        <mxCell id="qCejchfYv6QgmL-s5eRY-40" value="usb_generic_driver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="qCejchfYv6QgmL-s5eRY-61">
           <mxGeometry x="717" y="24" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qCejchfYv6QgmL-s5eRY-41" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="qCejchfYv6QgmL-s5eRY-61">
@@ -163,7 +163,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qCejchfYv6QgmL-s5eRY-55" value="usbfs_driver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qCejchfYv6QgmL-s5eRY-61">
+        <mxCell id="qCejchfYv6QgmL-s5eRY-55" value="usbfs_driver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="qCejchfYv6QgmL-s5eRY-61">
           <mxGeometry x="348" y="24" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qCejchfYv6QgmL-s5eRY-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="qCejchfYv6QgmL-s5eRY-61">
