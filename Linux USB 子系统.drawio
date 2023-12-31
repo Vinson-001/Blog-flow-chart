@@ -1,9 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T11:42:51.628Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="pN7OTp22k_M04Uh0Su0t" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-31T12:21:08.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="5UE-m2CDVXkoNqe_H5H0" version="21.8.2" type="github">
   <diagram name="USBCore" id="3T-yHPeF6XV3hYMny7rR">
     <mxGraphModel dx="1420" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qCejchfYv6QgmL-s5eRY-1" value="usb/core" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qCejchfYv6QgmL-s5eRY-2" value="Platform_bus" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qCejchfYv6QgmL-s5eRY-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="155" y="280" width="10" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="qCejchfYv6QgmL-s5eRY-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="10" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="qCejchfYv6QgmL-s5eRY-13" value="" style="endArrow=classic;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="qCejchfYv6QgmL-s5eRY-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="166" y="321" as="sourcePoint" />
+            <mxPoint x="326" y="321" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qCejchfYv6QgmL-s5eRY-14" value="usb_init()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="221" y="285" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qCejchfYv6QgmL-s5eRY-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="366" y="342" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qCejchfYv6QgmL-s5eRY-17" value="usb_debugfs_init()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="qCejchfYv6QgmL-s5eRY-16" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="371" y="322" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="401" y="352" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
