@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T08:52:11.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="k-GvRmXS-CKBcCdfNyeG" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T08:55:07.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="iynYo4rQdjLyYNAC2RJd" version="24.2.5" type="github">
   <diagram name="usb 总线" id="pd-Zbiyc6Sx0SRdpBiYg">
     <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="N79WOz4eK4pjpgPFplo8-1" value="usb_init()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N79WOz4eK4pjpgPFplo8-2" value="bus_register(&amp;amp;usb_bus_type)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N79WOz4eK4pjpgPFplo8-3" value="usb_hub_init();" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N79WOz4eK4pjpgPFplo8-4" value="usb_register_device_driver(&amp;amp;usb_generic_driver)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="280" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
