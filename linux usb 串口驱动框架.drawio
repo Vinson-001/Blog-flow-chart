@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T09:26:44.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="NhZJsmfJgNSMhoS7Aip4" version="24.2.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-08T09:57:06.098Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="PuUyU2ogOZ8wULzYraKV" version="24.2.5" type="github" pages="3">
   <diagram name="usb 总线" id="pd-Zbiyc6Sx0SRdpBiYg">
     <mxGraphModel dx="904" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -212,7 +212,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ucmCQ5X-aWN5uSkLeWC1-7" value="serial_driver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="ucmCQ5X-aWN5uSkLeWC1-7" value="serial_driver" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="200" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ucmCQ5X-aWN5uSkLeWC1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ucmCQ5X-aWN5uSkLeWC1-9" target="RQIb3fCB3z1MNlx8ohrg-16">
