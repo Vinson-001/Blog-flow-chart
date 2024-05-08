@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T07:05:41.105Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="MG2nFHv-abiTBPq1rh3y" version="24.2.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-08T07:10:52.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="JtyQpUkqQVspDwaLgszP" version="24.2.5" type="github" pages="3">
   <diagram name="usb 总线" id="pd-Zbiyc6Sx0SRdpBiYg">
     <mxGraphModel dx="904" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -179,6 +179,24 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rXc1lIcOnX515OFpuQ8o-1" value="usb_serial_init" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXc1lIcOnX515OFpuQ8o-2" value="alloc_tty_driver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXc1lIcOnX515OFpuQ8o-3" value="bus_register(&amp;amp;usb_serial_bus_type);" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXc1lIcOnX515OFpuQ8o-4" value="tty_register_driver(usb_serial_tty_driver);" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXc1lIcOnX515OFpuQ8o-5" value="usb_register(&amp;amp;usb_serial_driver);" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rXc1lIcOnX515OFpuQ8o-6" value="usb_serial_generic_register" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="240" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
