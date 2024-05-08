@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T01:39:23.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="6Ncd61HFPE6DjXH9XJL5" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-08T01:40:02.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="8UMuoCjnOyWzZYKDgxuX" version="24.2.5" type="github" pages="2">
   <diagram name="usb 总线" id="pd-Zbiyc6Sx0SRdpBiYg">
-    <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
