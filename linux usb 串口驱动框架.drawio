@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T07:05:15.263Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="g9CQ3xPTaCQvDlS7nJwy" version="24.2.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-08T07:05:41.105Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="MG2nFHv-abiTBPq1rh3y" version="24.2.5" type="github" pages="3">
   <diagram name="usb 总线" id="pd-Zbiyc6Sx0SRdpBiYg">
     <mxGraphModel dx="904" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4RfiW-_JpWcpCr7eVK0N" name="usb bus 模型">
-    <mxGraphModel dx="904" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -171,6 +171,14 @@
         <mxCell id="RQIb3fCB3z1MNlx8ohrg-23" value="match_device" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="218" width="100" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="48fDYIGAeI2FRgIxd0oK" name="usb-serial">
+    <mxGraphModel dx="904" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
