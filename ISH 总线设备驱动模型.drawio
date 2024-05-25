@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T07:33:15.581Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="qa5u_kBAI3T4RhxIS-0K" version="24.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-25T07:39:59.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="6DZWDp0ggD66j9Jx6-bf" version="24.4.6" type="github" pages="2">
   <diagram name="框架对比" id="Mw3vE7-5748PPqASYoQp">
     <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -168,6 +168,45 @@
             <mxPoint x="320" y="281" as="sourcePoint" />
             <mxPoint x="790" y="280.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-13" value="QUERY_SUBSCRIBER" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="288" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-14" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;endFill=1;startArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="318.5" as="sourcePoint" />
+            <mxPoint x="790" y="318" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-15" value="HOST_ENUM_REQ_CMD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="328" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-16" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;endFill=1;startArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="358.5" as="sourcePoint" />
+            <mxPoint x="790" y="358" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-17" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=12 12;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="400.5" as="sourcePoint" />
+            <mxPoint x="790" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-18" value="HOST_ENUM_RES_CMD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="370" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-19" value="HOST_CLIENT_PROPERTIES_REQ_CMD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="400" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-20" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;endFill=1;startArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="438.5" as="sourcePoint" />
+            <mxPoint x="790" y="438" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-21" value="HOST_CLIENT_PROPERTIES_RES_CMD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="440" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
