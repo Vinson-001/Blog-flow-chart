@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T08:24:55.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="F5-K5aspdkBYBHTqRD9I" version="24.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-25T08:25:35.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="OXs7vUAhvh1G18yrE_bx" version="24.4.6" type="github" pages="2">
   <diagram name="框架对比" id="Mw3vE7-5748PPqASYoQp">
     <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -111,11 +111,11 @@
         </mxCell>
         <mxCell id="RmtFWjTwbBmCjUCFwO8Y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=12 12;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="920" as="targetPoint" />
+            <mxPoint x="519.5" y="680" as="targetPoint" />
             <mxPoint x="520" y="1150" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="520" y="320" />
-              <mxPoint x="520" y="320" />
+              <mxPoint x="519.5" y="80" />
+              <mxPoint x="519.5" y="80" />
             </Array>
           </mxGeometry>
         </mxCell>
