@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T07:39:59.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="6DZWDp0ggD66j9Jx6-bf" version="24.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-25T07:49:01.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="nekYx7kGC6wMIVZ_9Oae" version="24.4.6" type="github" pages="2">
   <diagram name="框架对比" id="Mw3vE7-5748PPqASYoQp">
     <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -93,12 +93,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="UZ6I1xLvl7chqDdeZcAk-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="UZ6I1xLvl7chqDdeZcAk-4" value="HID-ISH-CLN" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z_B3p3rBgZ-alaME_Wm3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=none;startFill=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="UZ6I1xLvl7chqDdeZcAk-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="561" as="targetPoint" />
+            <mxPoint x="320" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UZ6I1xLvl7chqDdeZcAk-6" value="ISHTP" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -106,7 +111,7 @@
         </mxCell>
         <mxCell id="RmtFWjTwbBmCjUCFwO8Y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="UZ6I1xLvl7chqDdeZcAk-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="560" as="targetPoint" />
+            <mxPoint x="520" y="810" as="targetPoint" />
             <Array as="points">
               <mxPoint x="520" y="320" />
               <mxPoint x="520" y="320" />
@@ -118,7 +123,7 @@
         </mxCell>
         <mxCell id="Z_B3p3rBgZ-alaME_Wm3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="UZ6I1xLvl7chqDdeZcAk-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="560" as="targetPoint" />
+            <mxPoint x="800" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UZ6I1xLvl7chqDdeZcAk-8" value="HW" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -207,6 +212,45 @@
         </mxCell>
         <mxCell id="Z_B3p3rBgZ-alaME_Wm3-21" value="HOST_CLIENT_PROPERTIES_RES_CMD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="435" y="440" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-22" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=12 12;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="480.5" as="sourcePoint" />
+            <mxPoint x="790" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-24" value="Create new device on ishtp bus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="490" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-25" value="HOST_CLIENT_PROPERTIES_REQ_CMD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="520" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-26" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;endFill=1;startArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="560.5" as="sourcePoint" />
+            <mxPoint x="790" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-27" value="HOST_CLIENT_PROPERTIES_RES_CMD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="570" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-28" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=12 12;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="600.5" as="sourcePoint" />
+            <mxPoint x="790" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-29" value="Create new device on ishtp bus" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="620" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-30" value="Repeat HOST_CLIENT_PROPERTIES_REQ_CMD till last one&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="630" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-31" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;endFill=1;startArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="325" y="660.5" as="sourcePoint" />
+            <mxPoint x="795" y="660" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
