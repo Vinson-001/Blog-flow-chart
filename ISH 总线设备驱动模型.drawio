@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T06:40:47.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="IuEU5cNGEu52eV4GfbFq" version="24.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-25T06:44:47.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="LOQ4kJECxLyUH0nGaqUv" version="24.4.6" type="github" pages="2">
   <diagram name="框架对比" id="Mw3vE7-5748PPqASYoQp">
     <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="200" y="360" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9b0zC9YmSiK7THfdG9Im-10" value="PCI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="370" width="40" height="30" as="geometry" />
+          <mxGeometry x="520" y="363" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9b0zC9YmSiK7THfdG9Im-11" value="ISH processor" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="400" width="120" height="40" as="geometry" />
@@ -75,24 +75,6 @@
         </mxCell>
         <mxCell id="9iW8_Fb8OWuSpbquWous-1" value="HID 设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="80" width="440" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9iW8_Fb8OWuSpbquWous-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="110" y="160" width="20" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9iW8_Fb8OWuSpbquWous-3" value="应用层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9iW8_Fb8OWuSpbquWous-4" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="110" y="240" width="20" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9iW8_Fb8OWuSpbquWous-5" value="协议层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="248" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9iW8_Fb8OWuSpbquWous-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="110" y="320" width="20" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="9iW8_Fb8OWuSpbquWous-7" value="物理层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="358" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
