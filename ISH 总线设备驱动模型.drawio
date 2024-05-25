@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T06:19:19.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="0VJGO2H_ddptV0c4mgXc" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-25T06:22:27.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="h7CQh9GTwUmKMbXNOUGX" version="24.4.6" type="github">
   <diagram name="第 1 页" id="Mw3vE7-5748PPqASYoQp">
     <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -7,11 +7,41 @@
         <mxCell id="9b0zC9YmSiK7THfdG9Im-1" value="USB HID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9b0zC9YmSiK7THfdG9Im-2" value="USB protocol" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9b0zC9YmSiK7THfdG9Im-2" value="USB protocol" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9b0zC9YmSiK7THfdG9Im-3" value="EHCI/XHCI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9b0zC9YmSiK7THfdG9Im-3" value="EHCI/XHCI" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9b0zC9YmSiK7THfdG9Im-4" value="Host controller" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9b0zC9YmSiK7THfdG9Im-5" value="USB End points" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9b0zC9YmSiK7THfdG9Im-6" value="ISH HID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9b0zC9YmSiK7THfdG9Im-7" value="ISH Transport" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9b0zC9YmSiK7THfdG9Im-8" value="ISH IPC" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9b0zC9YmSiK7THfdG9Im-9" value="PCI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9b0zC9YmSiK7THfdG9Im-10" value="PCI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="370" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9b0zC9YmSiK7THfdG9Im-11" value="ISH processor" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9b0zC9YmSiK7THfdG9Im-12" value="ISH Clients" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9b0zC9YmSiK7THfdG9Im-13" value="USB Link" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="440" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
