@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T08:30:07.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="A5SJ95StrmKYvqz0_M5c" version="24.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-25T08:30:45.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="2JgiWpMViGO9oibCJgHp" version="24.4.6" type="github" pages="2">
   <diagram name="框架对比" id="Mw3vE7-5748PPqASYoQp">
     <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -79,8 +79,8 @@
         <mxCell id="P7TetxSky6AUEIaQWoKb-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="640" y="400" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="P7TetxSky6AUEIaQWoKb-2" value="ISH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680" y="445" width="40" height="30" as="geometry" />
+        <mxCell id="P7TetxSky6AUEIaQWoKb-2" value="ISH pipe" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="665" y="445" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rw-12ssm3MPFaKGyP7OH-1" value="(ish_driver)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="545" y="363" width="80" height="30" as="geometry" />
