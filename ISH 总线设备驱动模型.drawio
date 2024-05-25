@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T07:49:01.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="nekYx7kGC6wMIVZ_9Oae" version="24.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-25T08:17:35.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="9ttDXAQjpR8dq09Gk-Cp" version="24.4.6" type="github" pages="2">
   <diagram name="框架对比" id="Mw3vE7-5748PPqASYoQp">
     <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -89,13 +89,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wBldfdslJsbk1nhoAJDR" name="协议处理">
-    <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Z_B3p3rBgZ-alaME_Wm3-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="UZ6I1xLvl7chqDdeZcAk-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="820" as="targetPoint" />
+            <mxPoint x="120" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UZ6I1xLvl7chqDdeZcAk-4" value="HID-ISH-CLN" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -103,15 +103,16 @@
         </mxCell>
         <mxCell id="Z_B3p3rBgZ-alaME_Wm3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=none;startFill=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="UZ6I1xLvl7chqDdeZcAk-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="810" as="targetPoint" />
+            <mxPoint x="320" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UZ6I1xLvl7chqDdeZcAk-6" value="ISHTP" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="280" y="40" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RmtFWjTwbBmCjUCFwO8Y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="UZ6I1xLvl7chqDdeZcAk-7">
+        <mxCell id="RmtFWjTwbBmCjUCFwO8Y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=12 12;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="810" as="targetPoint" />
+            <mxPoint x="520" y="920" as="targetPoint" />
+            <mxPoint x="520" y="1050" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="520" y="320" />
               <mxPoint x="520" y="320" />
@@ -123,7 +124,7 @@
         </mxCell>
         <mxCell id="Z_B3p3rBgZ-alaME_Wm3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="UZ6I1xLvl7chqDdeZcAk-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="810" as="targetPoint" />
+            <mxPoint x="800" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UZ6I1xLvl7chqDdeZcAk-8" value="HW" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -175,7 +176,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z_B3p3rBgZ-alaME_Wm3-13" value="QUERY_SUBSCRIBER" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="288" width="150" height="30" as="geometry" />
+          <mxGeometry x="440" y="288" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z_B3p3rBgZ-alaME_Wm3-14" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;endFill=1;startArrow=none;startFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -246,11 +247,86 @@
         <mxCell id="Z_B3p3rBgZ-alaME_Wm3-30" value="Repeat HOST_CLIENT_PROPERTIES_REQ_CMD till last one&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="380" y="630" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-31" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;endFill=1;startArrow=none;startFill=0;" edge="1" parent="1">
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-31" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=12 12;endFill=0;startArrow=none;startFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="325" y="660.5" as="sourcePoint" />
             <mxPoint x="795" y="660" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-32" value="probed()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="678" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-33" value="ishtp_cl_connect" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="690" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-34" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;endFill=1;startArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="720.5" as="sourcePoint" />
+            <mxPoint x="320" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-35" value="CLIENT_CONNECT_REQ_CMD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="690" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-36" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;endFill=1;startArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="719.5" as="sourcePoint" />
+            <mxPoint x="800" y="719" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-37" value="CLIENT_CONNECT_RES_CMD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="730" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-40" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=12 12;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="760.5" as="sourcePoint" />
+            <mxPoint x="790" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-41" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;endFill=1;startArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="800.5" as="sourcePoint" />
+            <mxPoint x="320" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-42" value="register event callback" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="770" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-43" value="ishtp_cl_send(&lt;div&gt;HOSTIF_DM_ENUM_DEVICES)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="800" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-44" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;endFill=1;startArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="840.5" as="sourcePoint" />
+            <mxPoint x="320" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-46" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;endFill=1;startArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="325" y="840.5" as="sourcePoint" />
+            <mxPoint x="795" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-47" value="fill ishtp_msg_hdr struct write to hw" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="805" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-48" value="IRQ (IPC_PROTOCOL_ISHTP)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="850" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-49" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=12 12;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="880.5" as="sourcePoint" />
+            <mxPoint x="800" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-50" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=12 12;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="880.5" as="sourcePoint" />
+            <mxPoint x="320" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z_B3p3rBgZ-alaME_Wm3-51" value="ENUM DEVICE RSP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="850" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
