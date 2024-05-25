@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T08:24:41.937Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="FQbTcf-01tTgZW_9blIR" version="24.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-25T08:24:55.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="F5-K5aspdkBYBHTqRD9I" version="24.4.6" type="github" pages="2">
   <diagram name="框架对比" id="Mw3vE7-5748PPqASYoQp">
     <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -98,7 +98,7 @@
             <mxPoint x="120" y="1160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UZ6I1xLvl7chqDdeZcAk-4" value="HID-ISH-CLN" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="UZ6I1xLvl7chqDdeZcAk-4" value="HID-ISH-CLN" style="html=1;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z_B3p3rBgZ-alaME_Wm3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=none;startFill=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="UZ6I1xLvl7chqDdeZcAk-6">
@@ -106,7 +106,7 @@
             <mxPoint x="320" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UZ6I1xLvl7chqDdeZcAk-6" value="ISHTP" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="UZ6I1xLvl7chqDdeZcAk-6" value="ISHTP" style="html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RmtFWjTwbBmCjUCFwO8Y-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=12 12;" edge="1" parent="1">
@@ -119,7 +119,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UZ6I1xLvl7chqDdeZcAk-7" value="IPC&lt;div&gt;ish_driver&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="UZ6I1xLvl7chqDdeZcAk-7" value="IPC&lt;div&gt;ish_driver&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="480" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z_B3p3rBgZ-alaME_Wm3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="UZ6I1xLvl7chqDdeZcAk-8">
@@ -127,7 +127,7 @@
             <mxPoint x="800" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UZ6I1xLvl7chqDdeZcAk-8" value="HW" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="UZ6I1xLvl7chqDdeZcAk-8" value="HW" style="html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="760" y="40" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z_B3p3rBgZ-alaME_Wm3-3" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;" edge="1" parent="1">
