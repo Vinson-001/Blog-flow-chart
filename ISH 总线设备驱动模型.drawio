@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T08:59:02.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="tUjKEabhq8d09Ec8nPgU" version="24.4.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-29T09:03:53.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Gm3uNXvyKfT9kUMZjAy1" version="24.4.9" type="github" pages="4">
   <diagram name="框架对比" id="Mw3vE7-5748PPqASYoQp">
     <mxGraphModel dx="954" dy="558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="1">
       <root>
@@ -544,22 +544,57 @@
           <mxGeometry x="280" y="520" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1s7n13eL9LlYlCOFmLH1-9" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="140" width="320" height="10" as="geometry" />
+          <mxGeometry x="240" y="140" width="440" height="10" as="geometry" />
         </mxCell>
         <mxCell id="1s7n13eL9LlYlCOFmLH1-10" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="590" width="320" height="10" as="geometry" />
+          <mxGeometry x="240" y="590" width="480" height="10" as="geometry" />
         </mxCell>
         <mxCell id="1s7n13eL9LlYlCOFmLH1-11" value="OS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="558" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1s7n13eL9LlYlCOFmLH1-12" value="PCI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="578" width="40" height="30" as="geometry" />
+          <mxGeometry x="180" y="580" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1s7n13eL9LlYlCOFmLH1-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1s7n13eL9LlYlCOFmLH1-13" target="1s7n13eL9LlYlCOFmLH1-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1s7n13eL9LlYlCOFmLH1-13" value="ISH Hardware/Firmware(FW)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="280" y="640" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1s7n13eL9LlYlCOFmLH1-30" value="HECI&amp;amp;PCI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="600" y="640" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1s7n13eL9LlYlCOFmLH1-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1s7n13eL9LlYlCOFmLH1-31" target="1s7n13eL9LlYlCOFmLH1-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="660" />
+              <mxPoint x="580" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1s7n13eL9LlYlCOFmLH1-31" value="Sensor APP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="600" y="660" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1s7n13eL9LlYlCOFmLH1-32" value="Sensor Core" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="600" y="680" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1s7n13eL9LlYlCOFmLH1-33" value="Virtual Sensor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="600" y="700" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1s7n13eL9LlYlCOFmLH1-34" value="Physical Sensor Driver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="600" y="720" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1s7n13eL9LlYlCOFmLH1-39" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="160" y="640" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1s7n13eL9LlYlCOFmLH1-36" value="Intel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1s7n13eL9LlYlCOFmLH1-39">
+          <mxGeometry y="20" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1s7n13eL9LlYlCOFmLH1-37" value="OS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1s7n13eL9LlYlCOFmLH1-39">
+          <mxGeometry width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1s7n13eL9LlYlCOFmLH1-38" value="IHV" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1s7n13eL9LlYlCOFmLH1-39">
+          <mxGeometry y="40" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
