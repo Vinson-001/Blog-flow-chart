@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T08:50:40.147Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ZuWNuBjm_IHgKalMkboz" version="24.4.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-29T08:53:45.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="nAfuLyzPGr-IbpfbUTbA" version="24.4.9" type="github" pages="4">
   <diagram name="框架对比" id="Mw3vE7-5748PPqASYoQp">
     <mxGraphModel dx="954" dy="558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="1">
       <root>
@@ -479,6 +479,30 @@
         </mxCell>
         <mxCell id="1s7n13eL9LlYlCOFmLH1-2" value="IIO Sensor Drivers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1s7n13eL9LlYlCOFmLH1-3" value="IIO Core" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1s7n13eL9LlYlCOFmLH1-4" value="HID Sensor Hub MFD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1s7n13eL9LlYlCOFmLH1-5" value="HID Core" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1s7n13eL9LlYlCOFmLH1-6" value="HID Over ISH Client" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="400" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1s7n13eL9LlYlCOFmLH1-7" value="ISH Transport(ISHTP)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="460" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1s7n13eL9LlYlCOFmLH1-8" value="IPC Drivers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="520" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1s7n13eL9LlYlCOFmLH1-9" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="320" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1s7n13eL9LlYlCOFmLH1-10" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="579.5" width="320" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
