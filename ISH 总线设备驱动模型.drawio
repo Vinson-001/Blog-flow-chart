@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T11:12:04.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="pkvZtWY7e_UlFwf6bQL_" version="24.4.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-29T11:12:24.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="76So9yA381Ctu8NN-8RU" version="24.4.9" type="github" pages="5">
   <diagram name="框架对比" id="Mw3vE7-5748PPqASYoQp">
     <mxGraphModel dx="954" dy="558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="1">
       <root>
@@ -596,6 +596,14 @@
         <mxCell id="1s7n13eL9LlYlCOFmLH1-38" value="IHV" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1s7n13eL9LlYlCOFmLH1-39">
           <mxGeometry y="40" width="40" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="iDTX-fFdEVzs1sMe8z_G" name="第 5 页">
+    <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
