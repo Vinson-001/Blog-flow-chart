@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T09:33:11.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="X2WyUAaqkodBZ0YfP48w" version="24.6.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-06-26T09:38:50.196Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_uRvJUzj4ky3TT35SHNO" version="24.6.2" type="github" pages="6">
   <diagram id="ea1RopYp5OvqSiQu20VE" name="第 1 页">
     <mxGraphModel dx="1422" dy="706" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -553,8 +553,8 @@
         <mxCell id="tywk1t1vXvlT5LSzj8sN-13" value="150" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="505" y="318" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tywk1t1vXvlT5LSzj8sN-14" value="长时间工作随时间变化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="348" width="140" height="30" as="geometry" />
+        <mxCell id="tywk1t1vXvlT5LSzj8sN-14" value="不采用优先级提升（左）和采用（右）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="348" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jHC1UPKeeEfzIbjjBodl-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="480" y="70" width="10" height="40" as="geometry" />
