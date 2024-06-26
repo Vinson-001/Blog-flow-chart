@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T03:39:57.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ARdQMrYLhIzdVtk6xEMs" version="24.6.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-06-26T03:59:07.828Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Awgbpxfy6fw3FodEGmKL" version="24.6.2" type="github" pages="6">
   <diagram id="T1-sEoHmxtP9tjdEne8o" name="第 1 页">
     <mxGraphModel dx="1422" dy="706" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -462,12 +462,62 @@
     </mxGraphModel>
   </diagram>
   <diagram id="u8XMjpiN048jPzc9XhpW" name="机制&amp;策略">
+    <mxGraphModel dx="954" dy="558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TEMI04xeK0rMMddZvs9f-1" value="&lt;div&gt;策略&lt;/div&gt;&lt;div&gt;（Which）&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="400" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MbvTGZjvCbrXIRhfBEwF-1" value="低级机制&lt;div&gt;（How）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="400" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MbvTGZjvCbrXIRhfBEwF-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="439.5" y="290" as="sourcePoint" />
+            <mxPoint x="439.5" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2dwYcfg67CxJJ08rlOnb" name="从程序到进程">
     <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TEMI04xeK0rMMddZvs9f-1" value="&lt;div&gt;调度策略&lt;/div&gt;Schedule" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="410" y="200" width="80" height="80" as="geometry" />
+        <mxCell id="VVaQ6VupGy-x0G-hMMCK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VVaQ6VupGy-x0G-hMMCK-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VVaQ6VupGy-x0G-hMMCK-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="460" y="170" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VVaQ6VupGy-x0G-hMMCK-3" value="代码&lt;div&gt;静态数据&lt;/div&gt;&lt;div&gt;堆&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;栈&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;dashed=1;" vertex="1" parent="VVaQ6VupGy-x0G-hMMCK-5">
+          <mxGeometry width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VVaQ6VupGy-x0G-hMMCK-4" value="进程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VVaQ6VupGy-x0G-hMMCK-5">
+          <mxGeometry x="20" y="100" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VVaQ6VupGy-x0G-hMMCK-6" value="CPU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="130" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VVaQ6VupGy-x0G-hMMCK-7" value="内存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="130" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VVaQ6VupGy-x0G-hMMCK-9" value="" style="line;strokeWidth=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="358" width="320" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="VVaQ6VupGy-x0G-hMMCK-10" value="" style="line;strokeWidth=2;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="300" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VVaQ6VupGy-x0G-hMMCK-11" value="" style="line;strokeWidth=2;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="495" y="300" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VVaQ6VupGy-x0G-hMMCK-12" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="380" y="440" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
