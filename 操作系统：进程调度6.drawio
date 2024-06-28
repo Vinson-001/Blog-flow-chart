@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T07:30:36.059Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="bagWf86VGd3uPj0KaxBx" version="24.6.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-06-28T08:03:31.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0dd3-FKhL7T8EV3FlPpU" version="24.6.4" type="github" pages="8">
   <diagram id="ea1RopYp5OvqSiQu20VE" name="第 1 页">
     <mxGraphModel dx="1422" dy="706" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -913,7 +913,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qsez-fMlS-bInd8SI1SG" name="多核调度">
-    <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -951,6 +951,12 @@
         </mxCell>
         <mxCell id="jaF6KcD4n5w8SDVCYJ7F-9" value="内存" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="480" y="240" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jaF6KcD4n5w8SDVCYJ7F-12" value="带缓存的单个CPU" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="318" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jaF6KcD4n5w8SDVCYJ7F-13" value="两个有缓存的CPU 共享" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="318" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
