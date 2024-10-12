@@ -19,6 +19,9 @@
         <mxCell id="N_jyfrHUR9yX90MjjCYY-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.p-channel_mosfet_1;" vertex="1" parent="1">
           <mxGeometry x="720" y="120" width="95" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="N_jyfrHUR9yX90MjjCYY-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.p-channel_mosfet_1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="320" width="95" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
