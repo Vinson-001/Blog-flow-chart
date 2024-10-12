@@ -808,7 +808,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nQPHEh_LbxCZGWpR4mcD" name="BA 通电">
-    <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -835,6 +835,18 @@
         </mxCell>
         <mxCell id="SkMYkwL4kFRF45xpaXqc-8" value="C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="SkMYkwL4kFRF45xpaXqc-2">
           <mxGeometry x="10.001524227066284" y="160" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hGh0lzqJxgCiMkzHzaXW-1" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;" edge="1" parent="SkMYkwL4kFRF45xpaXqc-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="150" as="sourcePoint" />
+            <mxPoint x="165.45999999999998" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hGh0lzqJxgCiMkzHzaXW-2" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF0000;" edge="1" parent="SkMYkwL4kFRF45xpaXqc-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="165.45999999999998" y="83" as="sourcePoint" />
+            <mxPoint x="150" y="40" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SkMYkwL4kFRF45xpaXqc-9" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;endFill=1;startArrow=none;startFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
