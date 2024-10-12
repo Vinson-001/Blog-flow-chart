@@ -361,6 +361,18 @@
         <mxCell id="n__wIeWLncb3fW2Wz-OS-35" value="Q1、Q4 导通" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="52" y="70" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="8Is0WeH14mKllRxspTqc-1" value="" style="endArrow=none;html=1;rounded=0;endFill=0;fillColor=#e51400;strokeColor=#B20000;startArrow=block;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="83" y="472" as="sourcePoint" />
+            <mxPoint x="103" y="472" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zyJSy0hGyDFwCPmNzvz4-1" value="" style="endArrow=block;html=1;rounded=0;endFill=1;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="816" y="337" as="sourcePoint" />
+            <mxPoint x="807" y="343" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -520,6 +532,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="50" as="sourcePoint" />
             <mxPoint x="410" y="67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lU5eLZ_m1BFEMQEfFIm8-2" value="" style="endArrow=block;html=1;rounded=0;endFill=1;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="50" as="sourcePoint" />
+            <mxPoint x="790" y="61" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
