@@ -691,14 +691,14 @@
             <mxPoint x="440" y="194.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qq6bmkbRPO39H8cADPJl-19" value="" style="group;rotation=-60;" vertex="1" connectable="0" parent="1">
+        <mxCell id="Qq6bmkbRPO39H8cADPJl-19" value="" style="group;rotation=-55;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="470" y="170" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qq6bmkbRPO39H8cADPJl-20" value="N" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#B20000;rotation=-60;" vertex="1" parent="Qq6bmkbRPO39H8cADPJl-19">
-          <mxGeometry x="10" y="17" width="40" height="20" as="geometry" />
+        <mxCell id="Qq6bmkbRPO39H8cADPJl-20" value="N" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#B20000;rotation=-55;" vertex="1" parent="Qq6bmkbRPO39H8cADPJl-19">
+          <mxGeometry x="9" y="16" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qq6bmkbRPO39H8cADPJl-21" value="S" style="rounded=0;whiteSpace=wrap;html=1;rotation=-60;" vertex="1" parent="Qq6bmkbRPO39H8cADPJl-19">
-          <mxGeometry x="30" y="-17" width="40" height="20" as="geometry" />
+        <mxCell id="Qq6bmkbRPO39H8cADPJl-21" value="S" style="rounded=0;whiteSpace=wrap;html=1;rotation=-55;" vertex="1" parent="Qq6bmkbRPO39H8cADPJl-19">
+          <mxGeometry x="31" y="-16" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
