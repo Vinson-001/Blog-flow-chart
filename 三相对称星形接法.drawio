@@ -10,7 +10,7 @@
         <mxCell id="N_jyfrHUR9yX90MjjCYY-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.p-channel_mosfet_1;" vertex="1" parent="1">
           <mxGeometry x="160" y="330" width="95" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="N_jyfrHUR9yX90MjjCYY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="N_jyfrHUR9yX90MjjCYY-3">
+        <mxCell id="N_jyfrHUR9yX90MjjCYY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="N_jyfrHUR9yX90MjjCYY-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="427" y="110" as="targetPoint" />
           </mxGeometry>
@@ -18,7 +18,7 @@
         <mxCell id="N_jyfrHUR9yX90MjjCYY-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.p-channel_mosfet_1;" vertex="1" parent="1">
           <mxGeometry x="360" y="130" width="95" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="N_jyfrHUR9yX90MjjCYY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="N_jyfrHUR9yX90MjjCYY-4">
+        <mxCell id="N_jyfrHUR9yX90MjjCYY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="N_jyfrHUR9yX90MjjCYY-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="427" y="450" as="targetPoint" />
           </mxGeometry>
@@ -67,6 +67,24 @@
         </mxCell>
         <mxCell id="N_jyfrHUR9yX90MjjCYY-20" value="Q4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="565" y="365" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N_jyfrHUR9yX90MjjCYY-21" value="" style="endArrow=none;html=1;rounded=0;startArrow=oval;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="226" y="110" as="sourcePoint" />
+            <mxPoint x="120" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N_jyfrHUR9yX90MjjCYY-22" value="" style="endArrow=none;html=1;rounded=0;startArrow=oval;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="227" y="450" as="sourcePoint" />
+            <mxPoint x="120" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N_jyfrHUR9yX90MjjCYY-23" value="U+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="78" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N_jyfrHUR9yX90MjjCYY-24" value="U-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="418" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
