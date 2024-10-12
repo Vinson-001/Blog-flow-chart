@@ -11,10 +11,13 @@
           <mxGeometry x="340" y="320" width="95" height="100" as="geometry" />
         </mxCell>
         <mxCell id="N_jyfrHUR9yX90MjjCYY-3" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.p-channel_mosfet_1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="120" width="95" height="100" as="geometry" />
+          <mxGeometry x="520" y="120" width="95" height="100" as="geometry" />
         </mxCell>
         <mxCell id="N_jyfrHUR9yX90MjjCYY-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.p-channel_mosfet_1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="320" width="95" height="100" as="geometry" />
+          <mxGeometry x="520" y="320" width="95" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="N_jyfrHUR9yX90MjjCYY-5" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.p-channel_mosfet_1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="95" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
