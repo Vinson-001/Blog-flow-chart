@@ -358,6 +358,9 @@
         <mxCell id="n__wIeWLncb3fW2Wz-OS-34" value="C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="n__wIeWLncb3fW2Wz-OS-25">
           <mxGeometry x="10.001524227066284" y="160" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="n__wIeWLncb3fW2Wz-OS-35" value="Q1、Q4 导通" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5" y="70" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
