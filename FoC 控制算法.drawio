@@ -54,6 +54,30 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DkCm-MTQuog_AWC0i_iV-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" y="120" width="215.92304845413264" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="DkCm-MTQuog_AWC0i_iV-2" value="" style="group" vertex="1" connectable="0" parent="DkCm-MTQuog_AWC0i_iV-1">
+          <mxGeometry width="215.92304845413264" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="DkCm-MTQuog_AWC0i_iV-3" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor_5;rotation=-30;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="DkCm-MTQuog_AWC0i_iV-2">
+          <mxGeometry x="-4.53847577293368" y="141" width="120" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="DkCm-MTQuog_AWC0i_iV-4" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor_5;rotation=-90;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="DkCm-MTQuog_AWC0i_iV-2">
+          <mxGeometry x="45.46152422706632" y="53" width="120" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="DkCm-MTQuog_AWC0i_iV-5" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor_5;rotation=30;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="DkCm-MTQuog_AWC0i_iV-2">
+          <mxGeometry x="100.46152422706632" y="141" width="120" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="DkCm-MTQuog_AWC0i_iV-6" value="A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="DkCm-MTQuog_AWC0i_iV-2">
+          <mxGeometry x="110.00152422706631" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DkCm-MTQuog_AWC0i_iV-7" value="B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="DkCm-MTQuog_AWC0i_iV-2">
+          <mxGeometry x="180.00152422706628" y="160" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DkCm-MTQuog_AWC0i_iV-8" value="C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="DkCm-MTQuog_AWC0i_iV-2">
+          <mxGeometry x="10.001524227066284" y="160" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
