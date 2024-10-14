@@ -368,14 +368,14 @@
         <mxCell id="Yagi_paOYz2UH55PHLS7-10" value="B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="448.5" y="341" width="26" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Yagi_paOYz2UH55PHLS7-11" value="ib" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="429" y="393" width="27" height="26" as="geometry" />
+        <mxCell id="Yagi_paOYz2UH55PHLS7-11" value="N3 ib" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="418" y="391" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Yagi_paOYz2UH55PHLS7-12" value="ia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="582.5" y="479" width="27" height="26" as="geometry" />
+        <mxCell id="Yagi_paOYz2UH55PHLS7-12" value="N3 ia" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="571.5" y="477" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Yagi_paOYz2UH55PHLS7-13" value="ic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445.5" y="509" width="27" height="26" as="geometry" />
+        <mxCell id="Yagi_paOYz2UH55PHLS7-13" value="N3 ic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="434.5" y="507" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yagi_paOYz2UH55PHLS7-14" value="I_alpha" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="699.5" y="479" width="60" height="30" as="geometry" />
@@ -416,11 +416,11 @@
         <mxCell id="Yagi_paOYz2UH55PHLS7-21" value="30°" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="482.5" y="433" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Yagi_paOYz2UH55PHLS7-22" value="i_beta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="509.5" y="407" width="60" height="30" as="geometry" />
+        <mxCell id="Yagi_paOYz2UH55PHLS7-22" value="N2 i_beta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="517.5" y="403" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Yagi_paOYz2UH55PHLS7-23" value="i_alpha" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="529.5" y="497" width="60" height="30" as="geometry" />
+        <mxCell id="Yagi_paOYz2UH55PHLS7-23" value="N2 i_alpha" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="519.5" y="497" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Yagi_paOYz2UH55PHLS7-24" value="" style="endArrow=block;html=1;rounded=0;strokeWidth=2;endFill=1;startArrow=none;startFill=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
