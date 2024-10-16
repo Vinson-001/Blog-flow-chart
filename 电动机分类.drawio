@@ -16,7 +16,7 @@
         <mxCell id="OboERP0wbvoQKZKiwpHj-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-4" target="OboERP0wbvoQKZKiwpHj-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-4" value="BLDC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-4" value="BLDC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OboERP0wbvoQKZKiwpHj-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-7" target="OboERP0wbvoQKZKiwpHj-30">
@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OboERP0wbvoQKZKiwpHj-7" value="AC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="398" width="80" height="40" as="geometry" />
+          <mxGeometry x="400" y="420" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OboERP0wbvoQKZKiwpHj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-8" target="OboERP0wbvoQKZKiwpHj-11">
           <mxGeometry relative="1" as="geometry" />
@@ -85,8 +85,8 @@
         <mxCell id="OboERP0wbvoQKZKiwpHj-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-30" target="OboERP0wbvoQKZKiwpHj-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-30" value="同步电机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="379" width="80" height="40" as="geometry" />
+        <mxCell id="OboERP0wbvoQKZKiwpHj-30" value="同步电机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="401" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OboERP0wbvoQKZKiwpHj-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-31" target="OboERP0wbvoQKZKiwpHj-40">
           <mxGeometry relative="1" as="geometry" />
@@ -95,7 +95,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OboERP0wbvoQKZKiwpHj-31" value="异步电机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="489" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="511" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OboERP0wbvoQKZKiwpHj-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-34" target="OboERP0wbvoQKZKiwpHj-44">
           <mxGeometry relative="1" as="geometry" />
@@ -103,26 +103,29 @@
         <mxCell id="OboERP0wbvoQKZKiwpHj-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-34" target="OboERP0wbvoQKZKiwpHj-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-34" value="永磁同步" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="349" width="80" height="20" as="geometry" />
+        <mxCell id="OboERP0wbvoQKZKiwpHj-34" value="永磁同步（PMSM）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="720" y="371" width="80" height="29" as="geometry" />
         </mxCell>
         <mxCell id="OboERP0wbvoQKZKiwpHj-35" value="磁阻" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="389" width="80" height="20" as="geometry" />
+          <mxGeometry x="720" y="411" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OboERP0wbvoQKZKiwpHj-36" value="绕线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="429" width="80" height="20" as="geometry" />
+          <mxGeometry x="720" y="451" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OboERP0wbvoQKZKiwpHj-40" value="绕线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="469" width="80" height="20" as="geometry" />
+          <mxGeometry x="720" y="491" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OboERP0wbvoQKZKiwpHj-41" value="鼠笼式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="529" width="80" height="20" as="geometry" />
+          <mxGeometry x="720" y="551" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OboERP0wbvoQKZKiwpHj-44" value="IPM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="329" width="80" height="20" as="geometry" />
+          <mxGeometry x="840" y="351" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OboERP0wbvoQKZKiwpHj-45" value="SPM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="369" width="80" height="20" as="geometry" />
+          <mxGeometry x="840" y="391" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OboERP0wbvoQKZKiwpHj-51" value="BLDC motor" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.43;" vertex="1" parent="1">
+          <mxGeometry x="760" y="310" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
