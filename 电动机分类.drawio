@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OboERP0wbvoQKZKiwpHj-7" value="AC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="380" width="80" height="40" as="geometry" />
+          <mxGeometry x="400" y="398" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OboERP0wbvoQKZKiwpHj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-8" target="OboERP0wbvoQKZKiwpHj-11">
           <mxGeometry relative="1" as="geometry" />
@@ -46,13 +46,13 @@
         <mxCell id="OboERP0wbvoQKZKiwpHj-11" value="他励" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="101" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-13" target="OboERP0wbvoQKZKiwpHj-23">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-13" target="OboERP0wbvoQKZKiwpHj-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-13" target="OboERP0wbvoQKZKiwpHj-24">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-13" target="OboERP0wbvoQKZKiwpHj-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-13" target="OboERP0wbvoQKZKiwpHj-25">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-13" target="OboERP0wbvoQKZKiwpHj-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OboERP0wbvoQKZKiwpHj-13" value="自励" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -73,11 +73,29 @@
         <mxCell id="OboERP0wbvoQKZKiwpHj-25" value="复励" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="271" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="OboERP0wbvoQKZKiwpHj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-30" target="OboERP0wbvoQKZKiwpHj-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OboERP0wbvoQKZKiwpHj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-30" target="OboERP0wbvoQKZKiwpHj-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OboERP0wbvoQKZKiwpHj-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-30" target="OboERP0wbvoQKZKiwpHj-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OboERP0wbvoQKZKiwpHj-30" value="同步电机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="340" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="350" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OboERP0wbvoQKZKiwpHj-31" value="异步电机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OboERP0wbvoQKZKiwpHj-34" value="永磁同步" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="320" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OboERP0wbvoQKZKiwpHj-35" value="磁阻" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="360" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OboERP0wbvoQKZKiwpHj-36" value="绕线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="400" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
