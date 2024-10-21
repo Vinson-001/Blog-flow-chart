@@ -1694,7 +1694,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="je6QDe46N-ejvgiigGjK" name="FOC 经典控制">
-    <mxGraphModel dx="954" dy="558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
+    <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1769,8 +1769,8 @@
         <mxCell id="33I2rxbWa-iCSyptK09Y-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.025;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="33I2rxbWa-iCSyptK09Y-51" target="33I2rxbWa-iCSyptK09Y-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="33I2rxbWa-iCSyptK09Y-54" value="角度、速度、&lt;div&gt;位移&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="260" width="100" height="40" as="geometry" />
+        <mxCell id="33I2rxbWa-iCSyptK09Y-54" value="角度、速度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="491" y="267" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="33I2rxbWa-iCSyptK09Y-56" value="栅极驱动器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="78" width="80" height="30" as="geometry" />
