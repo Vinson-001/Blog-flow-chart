@@ -1,130 +1,130 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="QuG7LC7sdRnxYOh98Q5U">
-    <mxGraphModel dx="954" dy="558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
+    <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OboERP0wbvoQKZKiwpHj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-1" target="OboERP0wbvoQKZKiwpHj-7">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="OboERP0wbvoQKZKiwpHj-1" target="OboERP0wbvoQKZKiwpHj-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-1" target="OboERP0wbvoQKZKiwpHj-8">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="OboERP0wbvoQKZKiwpHj-1" target="OboERP0wbvoQKZKiwpHj-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-1" value="电动机分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-1" value="电动机分类" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-4" target="OboERP0wbvoQKZKiwpHj-7">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" parent="1" source="OboERP0wbvoQKZKiwpHj-4" target="OboERP0wbvoQKZKiwpHj-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-4" value="BLDC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-4" value="BLDC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="400" y="280" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-7" target="OboERP0wbvoQKZKiwpHj-30">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="OboERP0wbvoQKZKiwpHj-7" target="OboERP0wbvoQKZKiwpHj-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-7" target="OboERP0wbvoQKZKiwpHj-31">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="OboERP0wbvoQKZKiwpHj-7" target="OboERP0wbvoQKZKiwpHj-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-7" value="AC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-7" value="AC" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="420" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-8" target="OboERP0wbvoQKZKiwpHj-11">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="OboERP0wbvoQKZKiwpHj-8" target="OboERP0wbvoQKZKiwpHj-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-8" target="OboERP0wbvoQKZKiwpHj-13">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="OboERP0wbvoQKZKiwpHj-8" target="OboERP0wbvoQKZKiwpHj-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-8" target="OboERP0wbvoQKZKiwpHj-4">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" parent="1" source="OboERP0wbvoQKZKiwpHj-8" target="OboERP0wbvoQKZKiwpHj-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-8" value="DC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-8" value="DC" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-11" target="OboERP0wbvoQKZKiwpHj-16">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="OboERP0wbvoQKZKiwpHj-11" target="OboERP0wbvoQKZKiwpHj-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-11" target="OboERP0wbvoQKZKiwpHj-17">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="OboERP0wbvoQKZKiwpHj-11" target="OboERP0wbvoQKZKiwpHj-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-11" value="他励" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-11" value="他励" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="101" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-13" target="OboERP0wbvoQKZKiwpHj-23">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="OboERP0wbvoQKZKiwpHj-13" target="OboERP0wbvoQKZKiwpHj-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-13" target="OboERP0wbvoQKZKiwpHj-24">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="OboERP0wbvoQKZKiwpHj-13" target="OboERP0wbvoQKZKiwpHj-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-13" target="OboERP0wbvoQKZKiwpHj-25">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="OboERP0wbvoQKZKiwpHj-13" target="OboERP0wbvoQKZKiwpHj-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-13" value="自励" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-13" value="自励" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="221" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-16" value="永磁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-16" value="永磁" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="82" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-17" value="绕线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-17" value="绕线定子" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="142" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-23" value="串励" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-23" value="串励" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="191" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-24" value="并励" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-24" value="并励" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="231" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-25" value="复励" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-25" value="复励" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="271" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-30" target="OboERP0wbvoQKZKiwpHj-34">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="OboERP0wbvoQKZKiwpHj-30" target="OboERP0wbvoQKZKiwpHj-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-30" target="OboERP0wbvoQKZKiwpHj-35">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="OboERP0wbvoQKZKiwpHj-30" target="OboERP0wbvoQKZKiwpHj-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-30" target="OboERP0wbvoQKZKiwpHj-36">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="OboERP0wbvoQKZKiwpHj-30" target="OboERP0wbvoQKZKiwpHj-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-30" value="同步电机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-30" value="同步电机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="560" y="401" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-31" target="OboERP0wbvoQKZKiwpHj-40">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="OboERP0wbvoQKZKiwpHj-31" target="OboERP0wbvoQKZKiwpHj-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-31" target="OboERP0wbvoQKZKiwpHj-41">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="OboERP0wbvoQKZKiwpHj-31" target="OboERP0wbvoQKZKiwpHj-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-31" value="（感应）异步电机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-31" value="（感应）异步电机" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="511" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-34" target="OboERP0wbvoQKZKiwpHj-44">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="OboERP0wbvoQKZKiwpHj-34" target="OboERP0wbvoQKZKiwpHj-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="OboERP0wbvoQKZKiwpHj-34" target="OboERP0wbvoQKZKiwpHj-45">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="OboERP0wbvoQKZKiwpHj-34" target="OboERP0wbvoQKZKiwpHj-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-34" value="永磁同步（PMSM）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-34" value="永磁同步（PMSM）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="720" y="371" width="80" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-35" value="磁阻" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-35" value="磁阻" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="411" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-36" value="绕线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-36" value="绕线定子" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="451" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-40" value="绕线" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-40" value="绕线转子" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="491" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-41" value="鼠笼式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-41" value="鼠笼式" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="551" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-44" value="IPM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-44" value="IPM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="351" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-45" value="SPM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-45" value="SPM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="391" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="OboERP0wbvoQKZKiwpHj-51" value="BLDC motor" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.43;" vertex="1" parent="1">
+        <mxCell id="OboERP0wbvoQKZKiwpHj-51" value="BLDC motor" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.43;" parent="1" vertex="1">
           <mxGeometry x="760" y="310" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
