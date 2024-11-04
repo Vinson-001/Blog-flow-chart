@@ -244,7 +244,13 @@
           <mxGeometry x="290" y="304" width="270" height="220" as="geometry" />
         </mxCell>
         <mxCell id="v5FdyM7hq8oOZnyzJGbF-2" value="Gate Driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="120" width="80" height="80" as="geometry" />
+          <mxGeometry x="360" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v5FdyM7hq8oOZnyzJGbF-3" value="Gate Driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v5FdyM7hq8oOZnyzJGbF-4" value="Gate Driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
