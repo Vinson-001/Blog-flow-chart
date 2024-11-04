@@ -255,6 +255,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="F3NHaRRqA792Bo_mTj4y-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="v5FdyM7hq8oOZnyzJGbF-2" target="F3NHaRRqA792Bo_mTj4y-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="v5FdyM7hq8oOZnyzJGbF-2" value="Gate&amp;nbsp;&lt;div&gt;Driver&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="120" width="80" height="120" as="geometry" />
         </mxCell>
@@ -383,6 +386,9 @@
               <mxPoint x="480" y="169" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="F3NHaRRqA792Bo_mTj4y-36" value="6V~60V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="68" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
