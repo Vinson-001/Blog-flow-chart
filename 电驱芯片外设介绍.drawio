@@ -1000,6 +1000,11 @@
         <mxCell id="YTwuu6HtAPPHbu7xKnoK-9" value="R2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="426" y="78" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="YTwuu6HtAPPHbu7xKnoK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YTwuu6HtAPPHbu7xKnoK-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YTwuu6HtAPPHbu7xKnoK-10" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;" vertex="1" parent="1">
           <mxGeometry x="410" y="108" width="72" height="10" as="geometry" />
         </mxCell>
