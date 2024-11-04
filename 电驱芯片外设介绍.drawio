@@ -1007,6 +1007,12 @@
         <mxCell id="qhnGp38wMczQlv8_ni2g-6" value="ADC1/2/3 输出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="302.43" y="488" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="PgsXkHXziT62lJOPOvCw-1" value="VIP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="514" y="270" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PgsXkHXziT62lJOPOvCw-2" value="VIN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="318" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
