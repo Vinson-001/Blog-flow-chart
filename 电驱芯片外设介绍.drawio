@@ -236,7 +236,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XhOaBCQETFVKPspOTPjz" name="顶层框架示意图-三相互补带运放+故障">
-    <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
+    <mxGraphModel dx="1122" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1002,7 +1002,8 @@
         </mxCell>
         <mxCell id="YTwuu6HtAPPHbu7xKnoK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YTwuu6HtAPPHbu7xKnoK-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="370" y="150" as="targetPoint" />
+            <mxPoint x="375" y="155" as="targetPoint" />
+            <mxPoint x="407" y="108" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YTwuu6HtAPPHbu7xKnoK-10" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;" vertex="1" parent="1">
