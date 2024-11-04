@@ -571,7 +571,7 @@
           <mxGeometry x="455" y="358" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F3NHaRRqA792Bo_mTj4y-111" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="920" y="400" width="202.15999999999997" height="80" as="geometry" />
+          <mxGeometry x="920" y="441" width="202.15999999999997" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F3NHaRRqA792Bo_mTj4y-108" value="编码器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="F3NHaRRqA792Bo_mTj4y-111">
           <mxGeometry x="0.5399999999999636" y="20" width="81.08" height="40" as="geometry" />
