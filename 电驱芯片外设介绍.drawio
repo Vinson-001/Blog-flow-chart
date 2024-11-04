@@ -1055,10 +1055,10 @@
           <mxGeometry x="170" y="222" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rYeWmaJHvhwoJ2v6UU-2-8" value="VIN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="126" y="172" width="40" height="30" as="geometry" />
+          <mxGeometry x="120" y="182" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rYeWmaJHvhwoJ2v6UU-2-9" value="VIP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="232" width="40" height="30" as="geometry" />
+          <mxGeometry x="121" y="242" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
