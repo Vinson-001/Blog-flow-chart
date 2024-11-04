@@ -574,7 +574,10 @@
           <mxGeometry x="839.4599999999999" y="440" width="81.08" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F3NHaRRqA792Bo_mTj4y-109" value="霍尔接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="440" width="81.08" height="40" as="geometry" />
+          <mxGeometry x="960" y="440" width="81.08" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NHaRRqA792Bo_mTj4y-110" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="838.92" y="420" width="201.08" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
