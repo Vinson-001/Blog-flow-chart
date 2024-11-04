@@ -597,6 +597,9 @@
         <mxCell id="F3NHaRRqA792Bo_mTj4y-118" value="spi/i2c/pwm/spc/HSM/IIF" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="542.43" y="448" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="F3NHaRRqA792Bo_mTj4y-119" value="speed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="838.92" y="441" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
