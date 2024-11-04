@@ -570,14 +570,24 @@
         <mxCell id="F3NHaRRqA792Bo_mTj4y-107" value="Fault" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="455" y="358" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3NHaRRqA792Bo_mTj4y-108" value="编码器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="839.4599999999999" y="440" width="81.08" height="40" as="geometry" />
+        <mxCell id="F3NHaRRqA792Bo_mTj4y-111" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="920" y="400" width="202.15999999999997" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F3NHaRRqA792Bo_mTj4y-109" value="霍尔接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="960" y="440" width="81.08" height="40" as="geometry" />
+        <mxCell id="F3NHaRRqA792Bo_mTj4y-108" value="编码器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="F3NHaRRqA792Bo_mTj4y-111">
+          <mxGeometry x="0.5399999999999636" y="20" width="81.08" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F3NHaRRqA792Bo_mTj4y-110" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="838.92" y="420" width="201.08" height="80" as="geometry" />
+        <mxCell id="F3NHaRRqA792Bo_mTj4y-109" value="霍尔接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="F3NHaRRqA792Bo_mTj4y-111">
+          <mxGeometry x="121.08000000000004" y="20" width="81.08" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NHaRRqA792Bo_mTj4y-110" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="F3NHaRRqA792Bo_mTj4y-111">
+          <mxGeometry width="201.08" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NHaRRqA792Bo_mTj4y-116" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.594;entryY=0.031;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="F3NHaRRqA792Bo_mTj4y-37" target="F3NHaRRqA792Bo_mTj4y-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="310" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
