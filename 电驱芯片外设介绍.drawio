@@ -241,11 +241,11 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="v5FdyM7hq8oOZnyzJGbF-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.cpu;" vertex="1" parent="1">
-          <mxGeometry x="290" y="304" width="270" height="220" as="geometry" />
+          <mxGeometry x="240" y="400" width="270" height="220" as="geometry" />
         </mxCell>
         <mxCell id="v5FdyM7hq8oOZnyzJGbF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="v5FdyM7hq8oOZnyzJGbF-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="300" as="targetPoint" />
+            <mxPoint x="360" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F3NHaRRqA792Bo_mTj4y-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="v5FdyM7hq8oOZnyzJGbF-2" target="F3NHaRRqA792Bo_mTj4y-25">
@@ -259,7 +259,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v5FdyM7hq8oOZnyzJGbF-2" value="Gate&amp;nbsp;&lt;div&gt;Driver&lt;/div&gt;&lt;div&gt;TI&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="120" width="80" height="120" as="geometry" />
+          <mxGeometry x="400" y="120" width="80" height="160" as="geometry" />
         </mxCell>
         <mxCell id="v5FdyM7hq8oOZnyzJGbF-6" value="Va/Vb/Vc&lt;div&gt;PWM&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="295" y="223" width="70" height="40" as="geometry" />
