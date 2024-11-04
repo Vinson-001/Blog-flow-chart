@@ -552,16 +552,6 @@
         <mxCell id="F3NHaRRqA792Bo_mTj4y-97" value="AMP_A/B/C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="365" y="334" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3NHaRRqA792Bo_mTj4y-100" value="" style="endArrow=classic;html=1;rounded=0;curved=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="262.5" y="340" as="sourcePoint" />
-            <mxPoint x="940" y="40" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="270" y="340" />
-              <mxPoint x="270" y="18" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
