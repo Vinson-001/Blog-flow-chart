@@ -261,6 +261,15 @@
         <mxCell id="F3NHaRRqA792Bo_mTj4y-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="v5FdyM7hq8oOZnyzJGbF-2" target="v5FdyM7hq8oOZnyzJGbF-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="F3NHaRRqA792Bo_mTj4y-106" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="v5FdyM7hq8oOZnyzJGbF-2" target="v5FdyM7hq8oOZnyzJGbF-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="390" />
+              <mxPoint x="460" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="v5FdyM7hq8oOZnyzJGbF-2" value="Gate&amp;nbsp;&lt;div&gt;Driver&lt;/div&gt;&lt;div&gt;TI&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="400" y="120" width="80" height="200" as="geometry" />
         </mxCell>
@@ -550,13 +559,16 @@
           <mxGeometry x="560" y="272" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F3NHaRRqA792Bo_mTj4y-97" value="AMP_A/B/C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="324.5" width="90" height="30" as="geometry" />
+          <mxGeometry x="355" y="322" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F3NHaRRqA792Bo_mTj4y-103" value="ADC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="365" y="368" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F3NHaRRqA792Bo_mTj4y-104" value="Timer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="305" y="368" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NHaRRqA792Bo_mTj4y-107" value="Fault" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="358" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
