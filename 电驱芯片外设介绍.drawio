@@ -612,7 +612,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3NEDVTpyaPanzGKPJ_l9-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.cpu;" vertex="1" parent="1">
-          <mxGeometry x="120" y="400" width="270" height="220" as="geometry" />
+          <mxGeometry x="120" y="500" width="270" height="220" as="geometry" />
         </mxCell>
         <mxCell id="3NEDVTpyaPanzGKPJ_l9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;entryX=0.444;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3NEDVTpyaPanzGKPJ_l9-7" target="3NEDVTpyaPanzGKPJ_l9-1">
           <mxGeometry relative="1" as="geometry">
@@ -718,17 +718,19 @@
         <mxCell id="3NEDVTpyaPanzGKPJ_l9-23" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor_5;rotation=-90;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="557.5" y="302.5" width="35" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="3NEDVTpyaPanzGKPJ_l9-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.645;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3NEDVTpyaPanzGKPJ_l9-25">
+        <mxCell id="3NEDVTpyaPanzGKPJ_l9-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.645;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="662" y="340" as="targetPoint" />
+            <mxPoint x="662.03" y="329" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3NEDVTpyaPanzGKPJ_l9-25" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor_5;rotation=-90;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="640" y="302" width="40" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="3NEDVTpyaPanzGKPJ_l9-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.645;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="3NEDVTpyaPanzGKPJ_l9-27">
+        <mxCell id="3NEDVTpyaPanzGKPJ_l9-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.645;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="741" y="340" as="targetPoint" />
+            <mxPoint x="741.03" y="329" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3NEDVTpyaPanzGKPJ_l9-27" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor_5;rotation=-90;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -819,7 +821,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3NEDVTpyaPanzGKPJ_l9-49" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="567" y="340" width="20" height="12" as="geometry" />
+          <mxGeometry x="566" y="341" width="20" height="12" as="geometry" />
         </mxCell>
         <mxCell id="3NEDVTpyaPanzGKPJ_l9-50" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="3NEDVTpyaPanzGKPJ_l9-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -861,7 +863,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3NEDVTpyaPanzGKPJ_l9-57" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="730" y="340" width="20" height="12" as="geometry" />
+          <mxGeometry x="732" y="339" width="20" height="12" as="geometry" />
         </mxCell>
         <mxCell id="3NEDVTpyaPanzGKPJ_l9-58" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="3NEDVTpyaPanzGKPJ_l9-57">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -891,10 +893,10 @@
           <mxGeometry x="740" y="294" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3NEDVTpyaPanzGKPJ_l9-72" value="Timer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="185" y="368" width="50" height="30" as="geometry" />
+          <mxGeometry x="185" y="468" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3NEDVTpyaPanzGKPJ_l9-74" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="800" y="441" width="202.15999999999997" height="80" as="geometry" />
+          <mxGeometry x="800" y="541" width="202.15999999999997" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3NEDVTpyaPanzGKPJ_l9-75" value="编码器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="3NEDVTpyaPanzGKPJ_l9-74">
           <mxGeometry x="0.5399999999999636" y="20" width="81.08" height="40" as="geometry" />
@@ -918,13 +920,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3NEDVTpyaPanzGKPJ_l9-80" value="spi/i2c/pwm/spc/HSM/IIF/QEI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="412.42999999999995" y="448" width="180" height="30" as="geometry" />
+          <mxGeometry x="412.42999999999995" y="548" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3NEDVTpyaPanzGKPJ_l9-81" value="speed/angel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="703.92" y="441" width="90" height="30" as="geometry" />
+          <mxGeometry x="703.92" y="541" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3NEDVTpyaPanzGKPJ_l9-82" value="spi/i2c：直接读取&lt;div&gt;pwm : 输入捕获。测量脉冲根据占空比和角度一一对应&lt;/div&gt;&lt;div&gt;spc：&lt;/div&gt;&lt;div&gt;HSM：霍尔接口&lt;/div&gt;&lt;div&gt;IIF：增量接口&lt;/div&gt;&lt;div&gt;QEI：正交编码器&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="490" width="310" height="100" as="geometry" />
+          <mxGeometry x="420" y="590" width="310" height="100" as="geometry" />
         </mxCell>
         <mxCell id="3NEDVTpyaPanzGKPJ_l9-84" value="LKS560" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="129" width="80" height="40" as="geometry" />
