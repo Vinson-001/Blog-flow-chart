@@ -594,11 +594,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F3NHaRRqA792Bo_mTj4y-118" value="spi/i2c/pwm/spc/HSM/IIF" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="542.43" y="448" width="160" height="30" as="geometry" />
+        <mxCell id="F3NHaRRqA792Bo_mTj4y-118" value="spi/i2c/pwm/spc/HSM/IIF/QEI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="532.43" y="448" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F3NHaRRqA792Bo_mTj4y-119" value="speed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="838.92" y="441" width="60" height="30" as="geometry" />
+        <mxCell id="F3NHaRRqA792Bo_mTj4y-119" value="speed/angel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="823.92" y="441" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F3NHaRRqA792Bo_mTj4y-120" value="spi/i2c：直接读取&lt;div&gt;pwm : 输入捕获。测量脉冲根据占空比和角度一一对应&lt;/div&gt;&lt;div&gt;spc：&lt;/div&gt;&lt;div&gt;HSM：霍尔接口&lt;/div&gt;&lt;div&gt;IIF：增量接口&lt;/div&gt;&lt;div&gt;QEI：正交编码器&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="490" width="310" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
