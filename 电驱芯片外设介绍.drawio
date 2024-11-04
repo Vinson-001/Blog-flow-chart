@@ -417,6 +417,9 @@
         <mxCell id="F3NHaRRqA792Bo_mTj4y-48" value="w" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="926" y="160" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="F3NHaRRqA792Bo_mTj4y-53" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor_5;rotation=-90;fillColor=#ffe6cc;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="660" y="320" width="70" height="14" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
