@@ -95,7 +95,7 @@
         <mxCell id="xKhOxyHbj1bSHCMPvie2-25" value="CCW&lt;div&gt;逆时针&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="1080" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xKhOxyHbj1bSHCMPvie2-28" value="CW&lt;div&gt;逆时针&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xKhOxyHbj1bSHCMPvie2-28" value="CW&lt;div&gt;顺时针&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="940" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
