@@ -7,6 +7,60 @@
         <mxCell id="EHMa-zahsm7bsBQwlzu8-1" value="定时器时间基准" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="80" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="EHMa-zahsm7bsBQwlzu8-2" value="比较器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="EHMa-zahsm7bsBQwlzu8-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="200" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EHMa-zahsm7bsBQwlzu8-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EHMa-zahsm7bsBQwlzu8-7">
+          <mxGeometry width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EHMa-zahsm7bsBQwlzu8-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="EHMa-zahsm7bsBQwlzu8-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="20" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHMa-zahsm7bsBQwlzu8-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="EHMa-zahsm7bsBQwlzu8-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="20" as="sourcePoint" />
+            <mxPoint x="20" y="1" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHMa-zahsm7bsBQwlzu8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.013;entryY=0.059;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EHMa-zahsm7bsBQwlzu8-3" target="EHMa-zahsm7bsBQwlzu8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHMa-zahsm7bsBQwlzu8-10" value="INT0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="188" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EHMa-zahsm7bsBQwlzu8-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="332" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EHMa-zahsm7bsBQwlzu8-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="EHMa-zahsm7bsBQwlzu8-11">
+          <mxGeometry width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EHMa-zahsm7bsBQwlzu8-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="EHMa-zahsm7bsBQwlzu8-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="20" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHMa-zahsm7bsBQwlzu8-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="EHMa-zahsm7bsBQwlzu8-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="20" as="sourcePoint" />
+            <mxPoint x="20" y="1" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EHMa-zahsm7bsBQwlzu8-15" value="INTn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="310" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EHMa-zahsm7bsBQwlzu8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.05;entryY=0.891;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EHMa-zahsm7bsBQwlzu8-12" target="EHMa-zahsm7bsBQwlzu8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EHMa-zahsm7bsBQwlzu8-17" value="MUX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="80" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
