@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4" pages="2">
   <diagram name="先基" id="mnNSn0RaNxDy2fJ7bNLJ">
     <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,6 +70,14 @@
         <mxCell id="EHMa-zahsm7bsBQwlzu8-18" value="PWM输出控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="200" width="80" height="80" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4v7C7nRYu7bSrYXcrfvr" name="灵动微">
+    <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
