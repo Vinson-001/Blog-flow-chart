@@ -452,6 +452,9 @@
         <mxCell id="kL_dGXLq8gy1ORk5fXbc-114" value="优点：采样简单，精准。&lt;div&gt;缺点：对运放要求高，耐压共模电压过高&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="381" width="240" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bfXKkCqVSAEQREvFJc-C-1" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;" vertex="1" parent="1">
+          <mxGeometry x="282" y="286" width="40" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -604,6 +607,9 @@
         </mxCell>
         <mxCell id="uKEXo3Scuw1VcrN7UyDA-8" value="OPA" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="540" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4Mzw1xEp9sCgZULAti32-1" value="相电流的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="118" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
