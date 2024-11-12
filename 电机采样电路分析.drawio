@@ -100,6 +100,9 @@
         <mxCell id="NXIWG5uz2K2swiidzdYj-45" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;direction=south;" vertex="1" parent="1">
           <mxGeometry x="223" y="142.45999999999998" width="20" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="NXIWG5uz2K2swiidzdYj-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.8;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="NXIWG5uz2K2swiidzdYj-47" target="NXIWG5uz2K2swiidzdYj-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NXIWG5uz2K2swiidzdYj-47" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;direction=south;" vertex="1" parent="1">
           <mxGeometry x="223" y="262" width="20" height="75" as="geometry" />
         </mxCell>
