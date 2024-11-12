@@ -1841,6 +1841,9 @@
         <mxCell id="RVN7tUc7CTG_jUOyy-LW-41" value="B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="RVN7tUc7CTG_jUOyy-LW-44">
           <mxGeometry x="312.7" y="105" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="RVN7tUc7CTG_jUOyy-LW-45" value="C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="RVN7tUc7CTG_jUOyy-LW-44">
+          <mxGeometry x="312.7" y="130" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
