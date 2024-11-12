@@ -611,6 +611,9 @@
         <mxCell id="4Mzw1xEp9sCgZULAti32-1" value="相电流的" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="585" y="118" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="QVfu6qbQoMTaSW1rrCqQ-1" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.signal_ground;" vertex="1" parent="1">
+          <mxGeometry x="232" y="395" width="40" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
