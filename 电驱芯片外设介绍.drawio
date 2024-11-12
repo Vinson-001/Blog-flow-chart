@@ -1972,7 +1972,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V_elwLu7CDT5_RrpBL-C-1" value="成本高，对运放的耐压要求高" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="580" y="428" width="180" height="30" as="geometry" />
+          <mxGeometry x="578" y="440" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
