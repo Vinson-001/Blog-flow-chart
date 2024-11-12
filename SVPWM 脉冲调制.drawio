@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5_YuhG84WlwaUPd1VmNm-36" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="80" y="40" width="440" height="190" as="geometry" />
+          <mxGeometry x="80" y="48" width="440" height="190" as="geometry" />
         </mxCell>
         <mxCell id="5_YuhG84WlwaUPd1VmNm-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.p-channel_mosfet_1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="5_YuhG84WlwaUPd1VmNm-36">
           <mxGeometry x="24.019525055452213" y="26.559139784946236" width="45.6370976053592" height="51.0752688172043" as="geometry" />
