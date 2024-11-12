@@ -137,9 +137,6 @@
         <mxCell id="5_YuhG84WlwaUPd1VmNm-38" value="Vdc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5_YuhG84WlwaUPd1VmNm-36">
           <mxGeometry x="12.753623188405799" y="95.16888888888889" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5_YuhG84WlwaUPd1VmNm-40" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor_3;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="360" y="324" width="8" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="5_YuhG84WlwaUPd1VmNm-41" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor_5;" vertex="1" parent="1">
           <mxGeometry x="430" y="380" width="100" height="14" as="geometry" />
         </mxCell>
