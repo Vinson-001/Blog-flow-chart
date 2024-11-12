@@ -166,8 +166,8 @@
         <mxCell id="NXIWG5uz2K2swiidzdYj-76" value="Rs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="238.55" y="370" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NXIWG5uz2K2swiidzdYj-77" value="采样方式1：输出相线采样&lt;div&gt;成本高&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="338" y="140" width="160" height="40" as="geometry" />
+        <mxCell id="NXIWG5uz2K2swiidzdYj-77" value="采样方式1：输出相线采样&lt;div&gt;成本高，控制简单&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="338" y="140" width="157" height="41" as="geometry" />
         </mxCell>
         <mxCell id="NXIWG5uz2K2swiidzdYj-78" value="采样方式3：单/双/三电阻采样（1Shunt）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="338" y="380" width="237" height="26" as="geometry" />
