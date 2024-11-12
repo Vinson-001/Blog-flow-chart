@@ -1756,7 +1756,7 @@
           <mxGeometry x="725" y="280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RVN7tUc7CTG_jUOyy-LW-44" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="80" y="200" width="350" height="240" as="geometry" />
+          <mxGeometry x="76" y="200" width="350" height="240" as="geometry" />
         </mxCell>
         <mxCell id="RVN7tUc7CTG_jUOyy-LW-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.mosfets1.p-channel_mosfet_1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="RVN7tUc7CTG_jUOyy-LW-44">
           <mxGeometry x="28.688524590163933" y="33.54838709677419" width="54.50819672131147" height="64.51612903225806" as="geometry" />
