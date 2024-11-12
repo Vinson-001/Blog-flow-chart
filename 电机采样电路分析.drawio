@@ -194,7 +194,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="G7wTOybnaFBQpfCRKmRI" name="输出相线采样">
-    <mxGraphModel dx="1363" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="1122" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -449,8 +449,8 @@
         <mxCell id="kL_dGXLq8gy1ORk5fXbc-113" value="采样时机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="685" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kL_dGXLq8gy1ORk5fXbc-114" value="优点：采样简单，精准。&lt;div&gt;缺点：对运放要求高，耐压过高&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="380" width="186" height="41" as="geometry" />
+        <mxCell id="kL_dGXLq8gy1ORk5fXbc-114" value="优点：采样简单，精准。&lt;div&gt;缺点：对运放要求高，耐压共模电压过高&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="381" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
