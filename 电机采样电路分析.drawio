@@ -109,7 +109,7 @@
         <mxCell id="NXIWG5uz2K2swiidzdYj-47" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;direction=south;" vertex="1" parent="1">
           <mxGeometry x="223" y="262" width="20" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="NXIWG5uz2K2swiidzdYj-51" value="M" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="NXIWG5uz2K2swiidzdYj-51" value="M" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="360" y="216" width="54" height="54" as="geometry" />
         </mxCell>
         <mxCell id="NXIWG5uz2K2swiidzdYj-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
