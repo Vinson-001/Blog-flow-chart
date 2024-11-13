@@ -1201,6 +1201,12 @@
             <mxPoint x="480" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EzkPr2cV_pZ2jZESJmzR-69" value="T0/2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="650" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EzkPr2cV_pZ2jZESJmzR-70" value="T4/2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="650" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
