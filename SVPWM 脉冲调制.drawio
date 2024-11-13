@@ -2900,8 +2900,8 @@
         </mxCell>
         <mxCell id="KIO3ZL8Q6aSG4sAvjEmz-54" value="" style="endArrow=none;dashed=1;html=1;rounded=0;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="1065" as="sourcePoint" />
-            <mxPoint x="760" y="838" as="targetPoint" />
+            <mxPoint x="768" y="1065" as="sourcePoint" />
+            <mxPoint x="768" y="838" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KIO3ZL8Q6aSG4sAvjEmz-55" value="VI 扇区（300°~360°）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -2994,7 +2994,7 @@
         <mxCell id="uwEstt9ghNlaDb080Wx1-4" value="" style="endArrow=none;html=1;rounded=0;curved=1;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="961" as="sourcePoint" />
-            <mxPoint x="601" y="961" as="targetPoint" />
+            <mxPoint x="720" y="961" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
