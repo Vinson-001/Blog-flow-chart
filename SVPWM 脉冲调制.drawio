@@ -2265,7 +2265,7 @@
         <mxCell id="lZ_vc2p191xTuhqs_OqI-42" value="T0/2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="471" y="691" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lZ_vc2p191xTuhqs_OqI-43" value="T2/2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="lZ_vc2p191xTuhqs_OqI-43" value="T1/2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="516" y="691" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lZ_vc2p191xTuhqs_OqI-44" value="T3/2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -2280,7 +2280,7 @@
         <mxCell id="lZ_vc2p191xTuhqs_OqI-47" value="T3/2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="676" y="691" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lZ_vc2p191xTuhqs_OqI-48" value="T2/2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="lZ_vc2p191xTuhqs_OqI-48" value="T1/2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="716" y="691" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lZ_vc2p191xTuhqs_OqI-49" value="T0/2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -2328,7 +2328,7 @@
             <mxPoint x="761" y="519" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lZ_vc2p191xTuhqs_OqI-57" value="IV 扇区（120°~180°）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="lZ_vc2p191xTuhqs_OqI-57" value="IV 扇区（180°~240°）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="565" y="418" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lZ_vc2p191xTuhqs_OqI-58" value="" style="endArrow=none;html=1;rounded=0;curved=1;strokeWidth=2;" edge="1" parent="1">
