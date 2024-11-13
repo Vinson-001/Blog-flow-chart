@@ -713,7 +713,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dHQxQLOyfEiqp1L9ZXPH-57" value="I 扇区（0~60°）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="215.96" y="730" width="110" height="30" as="geometry" />
+          <mxGeometry x="232" y="730" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dHQxQLOyfEiqp1L9ZXPH-58" value="CHA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="27" y="748" width="50" height="30" as="geometry" />
@@ -744,6 +744,9 @@
         </mxCell>
         <mxCell id="dHQxQLOyfEiqp1L9ZXPH-64" value="采样点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="232" y="978" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dHQxQLOyfEiqp1L9ZXPH-65" value="C窗口太短，&lt;div&gt;不采集C相&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="242" y="903" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
