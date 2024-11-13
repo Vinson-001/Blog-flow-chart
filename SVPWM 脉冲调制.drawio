@@ -1207,6 +1207,9 @@
         <mxCell id="EzkPr2cV_pZ2jZESJmzR-70" value="T4/2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="195" y="650" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="EzkPr2cV_pZ2jZESJmzR-71" value="T6/2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="235" y="650" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
