@@ -807,7 +807,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uSZfAaR4Qf1i-cxhgKYl" name="60度坐标系">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1266,6 +1266,9 @@
             <mxPoint x="440" y="700" as="sourcePoint" />
             <mxPoint x="440" y="473" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6Vnck9RJbvaLO2aSgwPD-1" value="III" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="118" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -2316,7 +2319,7 @@
             <mxPoint x="761" y="519" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lZ_vc2p191xTuhqs_OqI-57" value="III 扇区（120°~180°）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="lZ_vc2p191xTuhqs_OqI-57" value="IV 扇区（120°~180°）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="565" y="418" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lZ_vc2p191xTuhqs_OqI-58" value="" style="endArrow=none;html=1;rounded=0;curved=1;strokeWidth=2;" edge="1" parent="1">
