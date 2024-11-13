@@ -1268,7 +1268,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6Vnck9RJbvaLO2aSgwPD-1" value="III" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="75" y="118" width="30" height="30" as="geometry" />
+          <mxGeometry x="80" y="99" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Vnck9RJbvaLO2aSgwPD-2" value="IV" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="231" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6Vnck9RJbvaLO2aSgwPD-3" value="V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="288" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
