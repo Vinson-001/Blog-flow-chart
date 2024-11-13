@@ -847,6 +847,9 @@
             <mxPoint x="401" y="963" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="a1Y7GXSyzfHQKvSa2JZZ-1" value="双电阻采样和三电阻采样时机一样，唯一的区别，&lt;div&gt;对精度要求高的场景，可能需要并行采样&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="763" width="290" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
