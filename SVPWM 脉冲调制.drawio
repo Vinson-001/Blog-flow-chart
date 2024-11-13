@@ -1527,6 +1527,9 @@
         <mxCell id="4T2jz3edeQkdIufLi7on-60" value="I 扇区（0~60°）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="215" y="38" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4T2jz3edeQkdIufLi7on-61" value="开关顺序(0-4-6-7-7-6-4-0)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="380" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
