@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nPId89hetOlhef9QkJUg-1" value="Speed&lt;div&gt;Regulator&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nPId89hetOlhef9QkJUg-1" value="Speed&lt;div&gt;Regulator&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="120" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
