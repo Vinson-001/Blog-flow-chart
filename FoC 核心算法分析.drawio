@@ -372,8 +372,10 @@
         <mxCell id="xuwa6vWzVNVJYXYEkQNP-64" value="Vβ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="510" y="478" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xuwa6vWzVNVJYXYEkQNP-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.483;entryY=1.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xuwa6vWzVNVJYXYEkQNP-60" target="xuwa6vWzVNVJYXYEkQNP-31">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="xuwa6vWzVNVJYXYEkQNP-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=oval;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="xuwa6vWzVNVJYXYEkQNP-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="459" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
