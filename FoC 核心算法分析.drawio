@@ -768,7 +768,7 @@
             <mxPoint x="330" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SjSwAmDV8f7xv590u7m9-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="SjSwAmDV8f7xv590u7m9-5" value="FoC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="160" y="520" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="SjSwAmDV8f7xv590u7m9-10" value="iq/id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -794,6 +794,9 @@
         </mxCell>
         <mxCell id="SjSwAmDV8f7xv590u7m9-24" value="Vc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="770" y="450" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SjSwAmDV8f7xv590u7m9-25" value="PWM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="518" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
