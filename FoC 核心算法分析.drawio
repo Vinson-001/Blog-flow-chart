@@ -801,7 +801,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="HYtg9ZopDHG-GnnNGETu" name="FoC 核心算法引入pid">
+  <diagram id="HYtg9ZopDHG-GnnNGETu" name="FoC 核心算法引入PID">
     <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
