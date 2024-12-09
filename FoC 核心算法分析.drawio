@@ -304,6 +304,15 @@
         <mxCell id="xuwa6vWzVNVJYXYEkQNP-43" value="iq" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="245" y="348" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xuwa6vWzVNVJYXYEkQNP-44" value="Vdc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="685" y="390" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xuwa6vWzVNVJYXYEkQNP-45" value="" style="endArrow=none;html=1;rounded=0;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="416" as="sourcePoint" />
+            <mxPoint x="721" y="416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
