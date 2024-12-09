@@ -377,6 +377,12 @@
             <mxPoint x="459" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xuwa6vWzVNVJYXYEkQNP-68" value="iβ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="400" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xuwa6vWzVNVJYXYEkQNP-69" value="iα" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="398" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
