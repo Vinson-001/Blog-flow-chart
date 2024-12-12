@@ -2434,6 +2434,9 @@
         <mxCell id="jthzdwUMft463fReWk1Q-5" value="Timer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="320" y="160" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jthzdwUMft463fReWk1Q-6" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="380" width="320" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
