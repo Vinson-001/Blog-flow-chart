@@ -2301,7 +2301,7 @@
             <mxPoint x="810" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vXwhsOVSVQo5bQZ7SGlX-1" value="OPA" style="triangle;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+        <mxCell id="vXwhsOVSVQo5bQZ7SGlX-1" value="OPA" style="triangle;whiteSpace=wrap;html=1;direction=west;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="481" y="440" width="36.57" height="79.5" as="geometry" />
         </mxCell>
         <mxCell id="S4t3jLXeQul4K044EmV5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.95;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vXwhsOVSVQo5bQZ7SGlX-1" target="5pe1PGarzGu9gK9XAj1v-106">
