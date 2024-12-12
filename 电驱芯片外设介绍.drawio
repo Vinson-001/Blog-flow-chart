@@ -2265,11 +2265,13 @@
             <mxPoint x="50" y="-10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="S4t3jLXeQul4K044EmV5-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="5pe1PGarzGu9gK9XAj1v-92" source="5pe1PGarzGu9gK9XAj1v-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5pe1PGarzGu9gK9XAj1v-99" value="SVPWM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5pe1PGarzGu9gK9XAj1v-92">
           <mxGeometry x="15" y="90" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5pe1PGarzGu9gK9XAj1v-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.429;entryY=0.933;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5pe1PGarzGu9gK9XAj1v-1" target="5pe1PGarzGu9gK9XAj1v-99">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5pe1PGarzGu9gK9XAj1v-101" value="PWM&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="358" width="60" height="30" as="geometry" />
