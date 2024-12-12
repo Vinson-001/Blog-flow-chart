@@ -2079,10 +2079,20 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5pe1PGarzGu9gK9XAj1v-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.cpu;" vertex="1" parent="1">
-          <mxGeometry x="81" y="400" width="270" height="220" as="geometry" />
+          <mxGeometry x="110" y="400" width="191" height="180" as="geometry" />
         </mxCell>
         <mxCell id="5pe1PGarzGu9gK9XAj1v-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5pe1PGarzGu9gK9XAj1v-7" target="5pe1PGarzGu9gK9XAj1v-51">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5pe1PGarzGu9gK9XAj1v-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="5pe1PGarzGu9gK9XAj1v-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5pe1PGarzGu9gK9XAj1v-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="5pe1PGarzGu9gK9XAj1v-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5pe1PGarzGu9gK9XAj1v-7" value="Gate&amp;nbsp;&lt;div&gt;Driver&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="80" height="120" as="geometry" />
@@ -2349,7 +2359,7 @@
           <mxGeometry x="383" y="500" width="310" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5pe1PGarzGu9gK9XAj1v-92" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="140" y="120" width="100" height="120" as="geometry" />
+          <mxGeometry x="160" y="120" width="100" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5pe1PGarzGu9gK9XAj1v-93" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="5pe1PGarzGu9gK9XAj1v-92">
           <mxGeometry width="100" height="120" as="geometry" />
@@ -2380,6 +2390,18 @@
         </mxCell>
         <mxCell id="5pe1PGarzGu9gK9XAj1v-99" value="SVPWM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5pe1PGarzGu9gK9XAj1v-92">
           <mxGeometry x="15" y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5pe1PGarzGu9gK9XAj1v-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.429;entryY=0.933;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5pe1PGarzGu9gK9XAj1v-1" target="5pe1PGarzGu9gK9XAj1v-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5pe1PGarzGu9gK9XAj1v-101" value="PWM&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="358" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5pe1PGarzGu9gK9XAj1v-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.019;entryY=0.421;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5pe1PGarzGu9gK9XAj1v-95" target="5pe1PGarzGu9gK9XAj1v-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5pe1PGarzGu9gK9XAj1v-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.014;entryY=0.438;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5pe1PGarzGu9gK9XAj1v-7" target="5pe1PGarzGu9gK9XAj1v-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
