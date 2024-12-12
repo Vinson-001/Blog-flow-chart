@@ -1703,7 +1703,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kXcTgg6L_mtAxwr59gw6" name="DTC 控制">
-    <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1949,10 +1949,10 @@
             <mxPoint x="680" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_6A1f0Al9IgfPTzJoeUT-109" value="磁链控制&lt;div&gt;(&lt;span style=&quot;text-wrap-mode: nowrap; background-color: initial;&quot;&gt;ψ&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="_6A1f0Al9IgfPTzJoeUT-109" value="磁链滞环控制&lt;div&gt;(&lt;span style=&quot;text-wrap-mode: nowrap; background-color: initial;&quot;&gt;ψ&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="480" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_6A1f0Al9IgfPTzJoeUT-110" value="转矩控制&lt;div&gt;(&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;T&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="_6A1f0Al9IgfPTzJoeUT-110" value="转矩滞环控制&lt;div&gt;(&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;T&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="480" y="238" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cJaYHPsMHbs0dleZifxR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cJaYHPsMHbs0dleZifxR-1" target="_6A1f0Al9IgfPTzJoeUT-109">
