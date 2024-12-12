@@ -2095,7 +2095,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5pe1PGarzGu9gK9XAj1v-7" value="Gate&amp;nbsp;&lt;div&gt;Driver&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="320" y="120" width="80" height="120" as="geometry" />
+          <mxGeometry x="400" y="120" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5pe1PGarzGu9gK9XAj1v-14" value="6V~60V" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="336" y="68" width="70" height="30" as="geometry" />
