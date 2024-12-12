@@ -2464,19 +2464,19 @@
         <mxCell id="jthzdwUMft463fReWk1Q-15" value="LPF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="460" y="320" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jthzdwUMft463fReWk1Q-16" value="PFC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="jthzdwUMft463fReWk1Q-16" value="PFC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="250" y="374" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jthzdwUMft463fReWk1Q-18" value="FoC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="200" y="310" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jthzdwUMft463fReWk1Q-20" value="MTPA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="jthzdwUMft463fReWk1Q-20" value="MTPA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="360" y="374" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jthzdwUMft463fReWk1Q-21" value="Feed Forward" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="jthzdwUMft463fReWk1Q-21" value="Feed Forward" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="460" y="374" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jthzdwUMft463fReWk1Q-22" value="Flux Weaken" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="jthzdwUMft463fReWk1Q-22" value="Flux Weaken" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="550" y="374" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
