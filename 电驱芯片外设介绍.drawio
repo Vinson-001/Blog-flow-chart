@@ -2420,7 +2420,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jthzdwUMft463fReWk1Q-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="200" y="310" width="440" height="110" as="geometry" />
+          <mxGeometry x="200" y="310" width="440" height="140" as="geometry" />
         </mxCell>
         <mxCell id="jthzdwUMft463fReWk1Q-1" value="MCPWM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="200" y="160" width="80" height="40" as="geometry" />
@@ -2438,7 +2438,7 @@
           <mxGeometry x="320" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jthzdwUMft463fReWk1Q-6" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="460" width="490" height="10" as="geometry" />
+          <mxGeometry x="155" y="480" width="490" height="10" as="geometry" />
         </mxCell>
         <mxCell id="jthzdwUMft463fReWk1Q-7" value="Gate Driver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="560" y="240" width="80" height="40" as="geometry" />
@@ -2493,6 +2493,9 @@
         </mxCell>
         <mxCell id="jthzdwUMft463fReWk1Q-27" value="支持的算法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="215" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jthzdwUMft463fReWk1Q-28" value="Dual FoC&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="250" y="420" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
