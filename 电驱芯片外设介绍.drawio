@@ -2452,16 +2452,16 @@
         <mxCell id="jthzdwUMft463fReWk1Q-10" value="修改" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="75" y="155" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jthzdwUMft463fReWk1Q-11" value="新增" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="75" y="175" width="50" height="30" as="geometry" />
+        <mxCell id="jthzdwUMft463fReWk1Q-11" value="新增模拟IP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="175" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jthzdwUMft463fReWk1Q-13" value="CORDIC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="jthzdwUMft463fReWk1Q-13" value="CORDIC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="250" y="320" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jthzdwUMft463fReWk1Q-14" value="PID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="jthzdwUMft463fReWk1Q-14" value="PID" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="360" y="320" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jthzdwUMft463fReWk1Q-15" value="LPF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="jthzdwUMft463fReWk1Q-15" value="LPF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="460" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jthzdwUMft463fReWk1Q-16" value="PFC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -2472,6 +2472,12 @@
         </mxCell>
         <mxCell id="jthzdwUMft463fReWk1Q-20" value="MTPA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="360" y="374" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jthzdwUMft463fReWk1Q-21" value="Feed Forward" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="460" y="374" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jthzdwUMft463fReWk1Q-22" value="Flux Weaken" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="550" y="374" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
