@@ -2367,7 +2367,7 @@
         <mxCell id="S4t3jLXeQul4K044EmV5-30" value="TSE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="335" y="398" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="S4t3jLXeQul4K044EmV5-31" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="S4t3jLXeQul4K044EmV5-31" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=#FF1A12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="327" as="sourcePoint" />
             <mxPoint x="880" y="90" as="targetPoint" />
@@ -2376,6 +2376,27 @@
               <mxPoint x="90" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="S4t3jLXeQul4K044EmV5-32" value="(1) 输出路径" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="165" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S4t3jLXeQul4K044EmV5-34" value="" style="endArrow=classic;html=1;rounded=0;curved=1;strokeColor=#FF0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="761" y="215" as="sourcePoint" />
+            <mxPoint x="460" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="410" />
+              <mxPoint x="770" y="440" />
+              <mxPoint x="780" y="520" />
+              <mxPoint x="690" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S4t3jLXeQul4K044EmV5-35" value="（2）采样路径" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="518" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S4t3jLXeQul4K044EmV5-37" value="（3 ）反馈路径" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="890" y="464.75" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
