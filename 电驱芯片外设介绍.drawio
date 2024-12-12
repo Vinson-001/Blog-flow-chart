@@ -2074,7 +2074,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1i2LeyJXmk2xGY3fg28g" name="顶层框架示意图全">
-    <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2366,6 +2366,16 @@
         </mxCell>
         <mxCell id="S4t3jLXeQul4K044EmV5-30" value="TSE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="335" y="398" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S4t3jLXeQul4K044EmV5-31" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="327" as="sourcePoint" />
+            <mxPoint x="880" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="277" />
+              <mxPoint x="90" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
