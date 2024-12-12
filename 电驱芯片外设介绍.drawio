@@ -2274,7 +2274,7 @@
           <mxGeometry x="15" y="90" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5pe1PGarzGu9gK9XAj1v-101" value="PWM&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="358" width="60" height="30" as="geometry" />
+          <mxGeometry x="150" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5pe1PGarzGu9gK9XAj1v-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.019;entryY=0.421;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5pe1PGarzGu9gK9XAj1v-95" target="5pe1PGarzGu9gK9XAj1v-7">
           <mxGeometry relative="1" as="geometry" />
