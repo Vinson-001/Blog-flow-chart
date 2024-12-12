@@ -2426,7 +2426,7 @@
           <mxGeometry x="200" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jthzdwUMft463fReWk1Q-3" value="CMP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="200" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jthzdwUMft463fReWk1Q-4" value="OPA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="320" y="240" width="80" height="40" as="geometry" />
@@ -2436,6 +2436,9 @@
         </mxCell>
         <mxCell id="jthzdwUMft463fReWk1Q-6" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="380" width="320" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jthzdwUMft463fReWk1Q-7" value="Gate Driver" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
