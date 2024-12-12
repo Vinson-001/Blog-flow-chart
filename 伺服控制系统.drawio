@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="开环系统" id="ZJvrawN25Bur2aR5RsV7">
-    <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,19 +12,19 @@
             <mxPoint x="200" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBI2YUWVVT5VwTpkTrmj-1" value="控制器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBI2YUWVVT5VwTpkTrmj-1" value="控制器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBI2YUWVVT5VwTpkTrmj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBI2YUWVVT5VwTpkTrmj-2" target="nBI2YUWVVT5VwTpkTrmj-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nBI2YUWVVT5VwTpkTrmj-2" value="功率驱动器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBI2YUWVVT5VwTpkTrmj-2" value="功率驱动器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="360" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBI2YUWVVT5VwTpkTrmj-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBI2YUWVVT5VwTpkTrmj-3" target="nBI2YUWVVT5VwTpkTrmj-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nBI2YUWVVT5VwTpkTrmj-3" value="伺服电机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBI2YUWVVT5VwTpkTrmj-3" value="伺服电机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="480" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBI2YUWVVT5VwTpkTrmj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nBI2YUWVVT5VwTpkTrmj-4">
@@ -52,19 +52,19 @@
             <mxPoint x="200" y="193" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBI2YUWVVT5VwTpkTrmj-15" value="控制器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBI2YUWVVT5VwTpkTrmj-15" value="控制器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="173" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBI2YUWVVT5VwTpkTrmj-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBI2YUWVVT5VwTpkTrmj-17" target="nBI2YUWVVT5VwTpkTrmj-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nBI2YUWVVT5VwTpkTrmj-17" value="功率驱动器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBI2YUWVVT5VwTpkTrmj-17" value="功率驱动器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="360" y="173" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBI2YUWVVT5VwTpkTrmj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBI2YUWVVT5VwTpkTrmj-19" target="nBI2YUWVVT5VwTpkTrmj-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nBI2YUWVVT5VwTpkTrmj-19" value="伺服电机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBI2YUWVVT5VwTpkTrmj-19" value="伺服电机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="480" y="173" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBI2YUWVVT5VwTpkTrmj-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nBI2YUWVVT5VwTpkTrmj-21">
@@ -92,7 +92,7 @@
             <mxPoint x="460" y="192" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBI2YUWVVT5VwTpkTrmj-25" value="传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBI2YUWVVT5VwTpkTrmj-25" value="传感器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="360" y="232" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBI2YUWVVT5VwTpkTrmj-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBI2YUWVVT5VwTpkTrmj-28" target="nBI2YUWVVT5VwTpkTrmj-15">
@@ -103,7 +103,7 @@
             <mxPoint x="580" y="192" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBI2YUWVVT5VwTpkTrmj-28" value="传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBI2YUWVVT5VwTpkTrmj-28" value="传感器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="360" y="292" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBI2YUWVVT5VwTpkTrmj-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBI2YUWVVT5VwTpkTrmj-34" target="nBI2YUWVVT5VwTpkTrmj-36">
@@ -114,19 +114,19 @@
             <mxPoint x="200" y="402" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBI2YUWVVT5VwTpkTrmj-34" value="控制器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBI2YUWVVT5VwTpkTrmj-34" value="控制器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="382" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBI2YUWVVT5VwTpkTrmj-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBI2YUWVVT5VwTpkTrmj-36" target="nBI2YUWVVT5VwTpkTrmj-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nBI2YUWVVT5VwTpkTrmj-36" value="功率驱动器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBI2YUWVVT5VwTpkTrmj-36" value="功率驱动器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="360" y="382" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBI2YUWVVT5VwTpkTrmj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBI2YUWVVT5VwTpkTrmj-38" target="nBI2YUWVVT5VwTpkTrmj-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nBI2YUWVVT5VwTpkTrmj-38" value="伺服电机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBI2YUWVVT5VwTpkTrmj-38" value="伺服电机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="480" y="382" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBI2YUWVVT5VwTpkTrmj-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nBI2YUWVVT5VwTpkTrmj-40">
@@ -154,13 +154,13 @@
             <mxPoint x="460" y="401" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nBI2YUWVVT5VwTpkTrmj-46" value="传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBI2YUWVVT5VwTpkTrmj-46" value="传感器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="360" y="441" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBI2YUWVVT5VwTpkTrmj-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nBI2YUWVVT5VwTpkTrmj-49" target="nBI2YUWVVT5VwTpkTrmj-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nBI2YUWVVT5VwTpkTrmj-49" value="传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nBI2YUWVVT5VwTpkTrmj-49" value="传感器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="360" y="501" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nBI2YUWVVT5VwTpkTrmj-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.47;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="nBI2YUWVVT5VwTpkTrmj-49" target="nBI2YUWVVT5VwTpkTrmj-41">
