@@ -56,7 +56,7 @@
           <mxGeometry x="145" y="218" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bXXNTigY4wrS9q08A0IP-20" value="c" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="340" width="30" height="30" as="geometry" />
+          <mxGeometry x="223" y="360" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bXXNTigY4wrS9q08A0IP-21" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor;" vertex="1" parent="1">
           <mxGeometry x="340" y="261" width="40" height="30" as="geometry" />
@@ -120,6 +120,36 @@
         </mxCell>
         <mxCell id="bXXNTigY4wrS9q08A0IP-41" value="ua" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="245" y="231" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bXXNTigY4wrS9q08A0IP-42" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor;rotation=-150;" vertex="1" parent="1">
+          <mxGeometry x="190.00000000000006" y="260" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bXXNTigY4wrS9q08A0IP-43" value="ib" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="248" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bXXNTigY4wrS9q08A0IP-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="225" y="266" as="sourcePoint" />
+            <mxPoint x="200" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bXXNTigY4wrS9q08A0IP-45" value="ub" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="268" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bXXNTigY4wrS9q08A0IP-46" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="223.00000000000006" y="310" width="35" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bXXNTigY4wrS9q08A0IP-47" value="ic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="328" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bXXNTigY4wrS9q08A0IP-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="233" y="315" as="sourcePoint" />
+            <mxPoint x="233" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bXXNTigY4wrS9q08A0IP-49" value="uc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="300" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
