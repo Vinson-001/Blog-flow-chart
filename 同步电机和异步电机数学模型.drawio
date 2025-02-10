@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="qKmIUasDicPMSTGGBdCc">
-    <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,13 +58,13 @@
         <mxCell id="bXXNTigY4wrS9q08A0IP-20" value="c" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="223" y="360" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bXXNTigY4wrS9q08A0IP-21" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor;" vertex="1" parent="1">
+        <mxCell id="bXXNTigY4wrS9q08A0IP-21" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="340" y="261" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bXXNTigY4wrS9q08A0IP-22" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor;direction=north;rotation=-30;" vertex="1" parent="1">
+        <mxCell id="bXXNTigY4wrS9q08A0IP-22" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor;direction=north;rotation=-30;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="175" y="178" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bXXNTigY4wrS9q08A0IP-26" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor;rotation=-60;" vertex="1" parent="1">
+        <mxCell id="bXXNTigY4wrS9q08A0IP-26" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor;rotation=-60;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="160" y="350" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bXXNTigY4wrS9q08A0IP-27" value="iA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -150,6 +150,9 @@
         </mxCell>
         <mxCell id="bXXNTigY4wrS9q08A0IP-49" value="uc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="245" y="300" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bXXNTigY4wrS9q08A0IP-50" value="定子三相绕组：A、B、C&lt;div&gt;转子绕组轴线：a、b、c&lt;/div&gt;&lt;div&gt;转子a轴和定子A 轴电角度θ&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="80" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
