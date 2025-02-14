@@ -148,6 +148,21 @@
             <mxPoint x="464" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AHRMzwFQ7VdDUi4KUTGy-61" value="A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="237.85" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AHRMzwFQ7VdDUi4KUTGy-62" value="B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="231" y="409.85" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AHRMzwFQ7VdDUi4KUTGy-63" value="C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="88" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AHRMzwFQ7VdDUi4KUTGy-64" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.7862645756216572;endAngle=0.010320247515079912;rotation=135;" vertex="1" parent="1">
+          <mxGeometry x="380.34000000000003" y="208.85" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AHRMzwFQ7VdDUi4KUTGy-65" value="θ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420.34" y="209" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
