@@ -37,10 +37,10 @@
             <mxPoint x="10" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AHRMzwFQ7VdDUi4KUTGy-15" value="Ra" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AHRMzwFQ7VdDUi4KUTGy-14">
+        <mxCell id="AHRMzwFQ7VdDUi4KUTGy-15" value="R&lt;sub&gt;A&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AHRMzwFQ7VdDUi4KUTGy-14">
           <mxGeometry x="20.170000000000016" y="33" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AHRMzwFQ7VdDUi4KUTGy-16" value="La" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AHRMzwFQ7VdDUi4KUTGy-14">
+        <mxCell id="AHRMzwFQ7VdDUi4KUTGy-16" value="L&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;A&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="AHRMzwFQ7VdDUi4KUTGy-14">
           <mxGeometry x="20.170000000000016" y="72" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
