@@ -4,6 +4,18 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AHRMzwFQ7VdDUi4KUTGy-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="163.85" width="96.15" height="96.15" as="geometry" />
+        </mxCell>
+        <mxCell id="AHRMzwFQ7VdDUi4KUTGy-4" value="" style="group;rotation=-240;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="250" y="200.99999999999994" width="80.34295593500133" height="21.69505016061919" as="geometry" />
+        </mxCell>
+        <mxCell id="AHRMzwFQ7VdDUi4KUTGy-5" value="N" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#ffffff;strokeColor=#B20000;rotation=-599;" vertex="1" parent="AHRMzwFQ7VdDUi4KUTGy-4">
+          <mxGeometry x="31" y="-17" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AHRMzwFQ7VdDUi4KUTGy-6" value="S" style="rounded=0;whiteSpace=wrap;html=1;rotation=-599;" vertex="1" parent="AHRMzwFQ7VdDUi4KUTGy-4">
+          <mxGeometry x="10" y="17" width="40" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
