@@ -420,6 +420,12 @@
         <mxCell id="oewvCl2w5deTHQBmxGJI-42" value="当p&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;n&lt;/sub&gt;ω&lt;sub&gt;r &lt;/sub&gt;=&lt;sub&gt; &lt;/sub&gt;ω&lt;sub&gt;e时&lt;/sub&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;感应电动势 = K&lt;sub&gt;E&lt;/sub&gt;ω&lt;sub&gt;e&lt;/sub&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="730" y="470" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="oewvCl2w5deTHQBmxGJI-43" value="q轴等效电路" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="610" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oewvCl2w5deTHQBmxGJI-44" value="d 轴等效电路" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="569" y="610" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
