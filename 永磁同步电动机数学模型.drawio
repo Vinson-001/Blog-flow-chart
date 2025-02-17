@@ -273,6 +273,12 @@
             <mxPoint x="89" y="61" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AiJP3578d_7ATA-n6qzG-24" value="q轴" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="227" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AiJP3578d_7ATA-n6qzG-25" value="d轴" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="259" y="50" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
