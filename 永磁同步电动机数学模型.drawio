@@ -459,8 +459,8 @@
             <mxPoint x="770" y="155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oewvCl2w5deTHQBmxGJI-54" value="&lt;b&gt;&lt;font style=&quot;color: rgb(151, 208, 119);&quot;&gt;u&lt;sub&gt;f&lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="755" y="103" width="30" height="30" as="geometry" />
+        <mxCell id="oewvCl2w5deTHQBmxGJI-54" value="&lt;b&gt;&lt;font style=&quot;color: rgb(151, 208, 119);&quot;&gt;u&lt;sub&gt;δ&lt;/sub&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="755" y="104" width="31" height="28" as="geometry" />
         </mxCell>
         <mxCell id="oewvCl2w5deTHQBmxGJI-55" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fillColor=#e51400;strokeColor=#FF0000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
