@@ -270,8 +270,8 @@
         <mxCell id="AiJP3578d_7ATA-n6qzG-19" value="i&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;q&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="AiJP3578d_7ATA-n6qzG-14">
           <mxGeometry x="54" y="60" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AiJP3578d_7ATA-n6qzG-20" value="L&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;d&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="AiJP3578d_7ATA-n6qzG-14">
-          <mxGeometry x="-8" y="56" width="30" height="30" as="geometry" />
+        <mxCell id="AiJP3578d_7ATA-n6qzG-20" value="L&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;sub&gt;q&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="AiJP3578d_7ATA-n6qzG-14">
+          <mxGeometry x="-7" y="57" width="29" height="28" as="geometry" />
         </mxCell>
         <mxCell id="AiJP3578d_7ATA-n6qzG-21" value="R&lt;span style=&quot;font-size: 8.33333px;&quot;&gt;&lt;sub&gt;s&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="AiJP3578d_7ATA-n6qzG-14">
           <mxGeometry x="23" y="59" width="40" height="30" as="geometry" />
