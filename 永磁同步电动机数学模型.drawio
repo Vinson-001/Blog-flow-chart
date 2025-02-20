@@ -859,6 +859,9 @@
         <mxCell id="GTEzyPdNU_35hkJs9Izj-14" value="jX&lt;sub&gt;s&lt;/sub&gt;i&lt;sub&gt;s&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="185" y="138" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GTEzyPdNU_35hkJs9Izj-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.3908627587152768;endAngle=0.7770210515316711;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="485" y="225" width="100" height="95" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
