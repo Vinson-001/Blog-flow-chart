@@ -1130,6 +1130,18 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3xiyOPsC50R5qWV7eUnk-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="274" y="160" width="46" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="3xiyOPsC50R5qWV7eUnk-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="3xiyOPsC50R5qWV7eUnk-1">
+          <mxGeometry x="6" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3xiyOPsC50R5qWV7eUnk-3" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="3xiyOPsC50R5qWV7eUnk-1">
+          <mxGeometry y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3xiyOPsC50R5qWV7eUnk-4" value="-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="3xiyOPsC50R5qWV7eUnk-1">
+          <mxGeometry x="11" y="14" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
