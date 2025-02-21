@@ -956,6 +956,21 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zzq5m3UN0HbavZ286LLx-2" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zzq5m3UN0HbavZ286LLx-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="234" y="160" width="46" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="zzq5m3UN0HbavZ286LLx-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="zzq5m3UN0HbavZ286LLx-5">
+          <mxGeometry x="6" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zzq5m3UN0HbavZ286LLx-3" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zzq5m3UN0HbavZ286LLx-5">
+          <mxGeometry y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zzq5m3UN0HbavZ286LLx-4" value="-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zzq5m3UN0HbavZ286LLx-5">
+          <mxGeometry x="11" y="14" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
