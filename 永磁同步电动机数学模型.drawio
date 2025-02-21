@@ -1209,7 +1209,7 @@
             <mxPoint x="880" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3xiyOPsC50R5qWV7eUnk-22" value="$$\frac {1}{L_{d/p}s + r}$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="3xiyOPsC50R5qWV7eUnk-22" value="$$\frac {1}{L_{d/q}s + r}$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="720" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3xiyOPsC50R5qWV7eUnk-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3xiyOPsC50R5qWV7eUnk-13" target="3xiyOPsC50R5qWV7eUnk-22">
