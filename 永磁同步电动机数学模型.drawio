@@ -952,7 +952,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JL5MpEhxYL7Muq2UYU0d" name="永磁同步电机电气模型">
-    <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -967,6 +967,23 @@
         </mxCell>
         <mxCell id="zzq5m3UN0HbavZ286LLx-4" value="-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="zzq5m3UN0HbavZ286LLx-5">
           <mxGeometry x="11" y="14" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zzq5m3UN0HbavZ286LLx-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="181.5" as="sourcePoint" />
+            <mxPoint x="240" y="181.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zzq5m3UN0HbavZ286LLx-8" value="U&lt;sub&gt;d&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="150" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zzq5m3UN0HbavZ286LLx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;startFill=1;startArrow=classic;" edge="1" parent="1" source="zzq5m3UN0HbavZ286LLx-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zzq5m3UN0HbavZ286LLx-9" value="$$\frac {1}{L_ds +r}$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
