@@ -1719,6 +1719,51 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="x1wWdTeYKkJOXzZbOpYf-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="320" y="140" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x1wWdTeYKkJOXzZbOpYf-2" value="$$T_e$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="145" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x1wWdTeYKkJOXzZbOpYf-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x1wWdTeYKkJOXzZbOpYf-4" value="$$T_L + J\frac {dω_m}{dt}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="200" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x1wWdTeYKkJOXzZbOpYf-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="130" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1wWdTeYKkJOXzZbOpYf-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.4925450690014751;endAngle=0.025638572899243664;direction=west;" vertex="1" parent="x1wWdTeYKkJOXzZbOpYf-9">
+          <mxGeometry width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1wWdTeYKkJOXzZbOpYf-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="x1wWdTeYKkJOXzZbOpYf-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="39" as="sourcePoint" />
+            <mxPoint x="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x1wWdTeYKkJOXzZbOpYf-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="159.5" as="sourcePoint" />
+            <mxPoint x="500" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x1wWdTeYKkJOXzZbOpYf-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="390" y="140" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1wWdTeYKkJOXzZbOpYf-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.4925450690014751;endAngle=0.8423103085221648;direction=west;" vertex="1" parent="x1wWdTeYKkJOXzZbOpYf-14">
+          <mxGeometry width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="x1wWdTeYKkJOXzZbOpYf-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="x1wWdTeYKkJOXzZbOpYf-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="65" y="47" as="sourcePoint" />
+            <mxPoint x="60" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x1wWdTeYKkJOXzZbOpYf-15" value="$$Bω_m$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
