@@ -1719,13 +1719,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="x1wWdTeYKkJOXzZbOpYf-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=north;" vertex="1" parent="1">
+        <mxCell id="x1wWdTeYKkJOXzZbOpYf-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=north;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="320" y="140" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="x1wWdTeYKkJOXzZbOpYf-2" value="$$T_e$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="145" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x1wWdTeYKkJOXzZbOpYf-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=north;" vertex="1" parent="1">
+        <mxCell id="x1wWdTeYKkJOXzZbOpYf-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=north;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x1wWdTeYKkJOXzZbOpYf-4" value="$$T_L + J\frac {dω_m}{dt}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
