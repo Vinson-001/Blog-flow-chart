@@ -1781,6 +1781,15 @@
         <mxCell id="x1wWdTeYKkJOXzZbOpYf-18" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="113" y="240" width="46" height="44" as="geometry" />
         </mxCell>
+        <mxCell id="x1wWdTeYKkJOXzZbOpYf-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=oval;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="x1wWdTeYKkJOXzZbOpYf-18" source="x1wWdTeYKkJOXzZbOpYf-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="657" y="20" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="26" y="120" />
+              <mxPoint x="657" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="x1wWdTeYKkJOXzZbOpYf-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="x1wWdTeYKkJOXzZbOpYf-18">
           <mxGeometry x="6" width="40" height="40" as="geometry" />
         </mxCell>
@@ -1859,6 +1868,21 @@
             <mxPoint x="720" y="259.5" as="sourcePoint" />
             <mxPoint x="800" y="259.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="x1wWdTeYKkJOXzZbOpYf-43" value="$$ω_m$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="780" y="260" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x1wWdTeYKkJOXzZbOpYf-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="69" y="261.5" as="sourcePoint" />
+            <mxPoint x="119" y="261.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x1wWdTeYKkJOXzZbOpYf-45" value="$$ω_m^*$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="23" y="230" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x1wWdTeYKkJOXzZbOpYf-47" value="$$ω_m$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="300" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
