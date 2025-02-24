@@ -1767,6 +1767,9 @@
         <mxCell id="x1wWdTeYKkJOXzZbOpYf-16" value="$$K_{P-ASR}$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="200" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="x1wWdTeYKkJOXzZbOpYf-17" value="$$\frac {K_{I-ASR}}{s}$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
