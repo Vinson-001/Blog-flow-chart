@@ -117,8 +117,8 @@
         <mxCell id="mW3eYivLWifJRrfYjNJC-42" value="" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#A9C4EB;" vertex="1" parent="1">
           <mxGeometry x="601.5" y="154" width="79.5" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="mW3eYivLWifJRrfYjNJC-43" value="MTPA 曲线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="682" y="142" width="80" height="30" as="geometry" />
+        <mxCell id="mW3eYivLWifJRrfYjNJC-43" value="MTPA 曲线，转矩与电流极限圆相切的点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="689" y="146" width="233" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
