@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mW3eYivLWifJRrfYjNJC-4" value="$$i_q$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="421" y="151" width="70" height="30" as="geometry" />
+          <mxGeometry x="390" y="140" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mW3eYivLWifJRrfYjNJC-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;dashed=1;strokeColor=#97D077;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="361" y="280" width="80" height="80" as="geometry" />
@@ -39,6 +39,12 @@
         </mxCell>
         <mxCell id="mW3eYivLWifJRrfYjNJC-12" value="&lt;font style=&quot;color: rgb(166, 128, 184);&quot;&gt;&lt;b&gt;电压椭圆&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="145" y="242" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mW3eYivLWifJRrfYjNJC-16" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159" y="305" as="sourcePoint" />
+            <mxPoint x="479" y="184" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
