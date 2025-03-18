@@ -96,6 +96,18 @@
         <mxCell id="mW3eYivLWifJRrfYjNJC-35" value="MTPA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="160" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mW3eYivLWifJRrfYjNJC-36" value="" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#FF1A12;" vertex="1" parent="1">
+          <mxGeometry x="560.5" y="36" width="79.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="mW3eYivLWifJRrfYjNJC-37" value="恒转矩曲线，从下到上递增" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="26" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mW3eYivLWifJRrfYjNJC-38" value="" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#97D077;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="560.5" y="70" width="79.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="mW3eYivLWifJRrfYjNJC-39" value="电流极限圆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="641" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
