@@ -52,8 +52,14 @@
             <mxPoint x="460" y="212" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mW3eYivLWifJRrfYjNJC-20" value="恒转矩曲线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="496" y="210" width="80" height="30" as="geometry" />
+        <mxCell id="mW3eYivLWifJRrfYjNJC-20" value="&lt;font style=&quot;color: rgb(255, 26, 18);&quot;&gt;&lt;b&gt;恒转矩曲线&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="481.5" y="210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mW3eYivLWifJRrfYjNJC-21" value="&lt;font style=&quot;color: rgb(255, 26, 18);&quot;&gt;$$T_1$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="190" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mW3eYivLWifJRrfYjNJC-22" value="&lt;font style=&quot;color: rgb(255, 26, 18);&quot;&gt;$$T_2$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="140" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
