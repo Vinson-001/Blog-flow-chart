@@ -42,14 +42,14 @@
         </mxCell>
         <mxCell id="mW3eYivLWifJRrfYjNJC-16" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeColor=#FF1A12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="91" y="328" as="sourcePoint" />
-            <mxPoint x="522" y="201" as="targetPoint" />
+            <mxPoint x="90" y="325" as="sourcePoint" />
+            <mxPoint x="525" y="205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mW3eYivLWifJRrfYjNJC-17" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeColor=#FF1A12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="107" y="353" as="sourcePoint" />
-            <mxPoint x="554" y="237" as="targetPoint" />
+            <mxPoint x="107" y="355" as="sourcePoint" />
+            <mxPoint x="554" y="239" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mW3eYivLWifJRrfYjNJC-20" value="&lt;font style=&quot;color: rgb(255, 26, 18);&quot;&gt;&lt;b&gt;恒转矩曲线&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -75,8 +75,8 @@
         </mxCell>
         <mxCell id="mW3eYivLWifJRrfYjNJC-27" value="" style="endArrow=none;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=1;strokeColor=#FF1A12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="74.5" y="297.25" as="sourcePoint" />
-            <mxPoint x="491" y="175" as="targetPoint" />
+            <mxPoint x="79.5" y="289.25" as="sourcePoint" />
+            <mxPoint x="510" y="166" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mW3eYivLWifJRrfYjNJC-28" value="&lt;font style=&quot;color: rgb(255, 26, 18);&quot;&gt;$$T_3$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -87,9 +87,9 @@
             <mxPoint x="481" y="357" as="sourcePoint" />
             <mxPoint x="311" y="207" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="471" y="327" />
-              <mxPoint x="451" y="297" />
-              <mxPoint x="411" y="247" />
+              <mxPoint x="481" y="330" />
+              <mxPoint x="470" y="290" />
+              <mxPoint x="420" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
