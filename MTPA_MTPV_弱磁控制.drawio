@@ -120,6 +120,15 @@
         <mxCell id="mW3eYivLWifJRrfYjNJC-43" value="MTPA 曲线，转矩与电流极限圆相切的点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="689" y="146" width="233" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="mW3eYivLWifJRrfYjNJC-46" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="451" y="271" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mW3eYivLWifJRrfYjNJC-47" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="418" y="240" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mW3eYivLWifJRrfYjNJC-48" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="467" y="305" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
