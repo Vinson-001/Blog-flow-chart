@@ -280,6 +280,9 @@
             <mxPoint x="235" y="241" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ITV1RG-gbihobjQveghl-1" value="电压固定时：&lt;div&gt;$$ω_1 &amp;gt; ω_2$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="394" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
