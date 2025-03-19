@@ -293,7 +293,7 @@
         <mxCell id="1" parent="0" />
         <mxCell id="ayVXV6i44vEfa14xTHij-1" value="" style="endArrow=classic;html=1;rounded=0;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="200" as="sourcePoint" />
+            <mxPoint x="40" y="200" as="sourcePoint" />
             <mxPoint x="680" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -310,13 +310,19 @@
           <mxGeometry x="258" y="170" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vIlkshAlX8LXuHtNf19n-4" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="280" width="200" height="80" as="geometry" />
+          <mxGeometry x="190" y="140" width="290" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vIlkshAlX8LXuHtNf19n-6" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;$$ω_{max}$$&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="218" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vIlkshAlX8LXuHtNf19n-7" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;$$ω_{b}$$&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="430" width="80" height="30" as="geometry" />
+          <mxGeometry x="250" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vIlkshAlX8LXuHtNf19n-8" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="80" width="500" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="vIlkshAlX8LXuHtNf19n-9" value="$$ω_1$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
