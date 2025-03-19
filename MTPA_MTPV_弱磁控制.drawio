@@ -368,16 +368,16 @@
             <mxPoint x="222" y="233" as="targetPoint" />
             <Array as="points">
               <mxPoint x="340" y="336" />
-              <mxPoint x="329" y="296" />
-              <mxPoint x="279" y="246" />
+              <mxPoint x="300" y="280" />
+              <mxPoint x="270" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="XsTd0N5rQGPK0hfVUbmO-7" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="311" y="280" width="20" height="20" as="geometry" />
+          <mxGeometry x="305" y="291" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XsTd0N5rQGPK0hfVUbmO-8" value="$$B$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="271" y="275" width="60" height="30" as="geometry" />
+          <mxGeometry x="258" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XsTd0N5rQGPK0hfVUbmO-9" value="$$C$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="293" y="358" width="60" height="30" as="geometry" />
