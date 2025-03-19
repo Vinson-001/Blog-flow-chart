@@ -406,6 +406,36 @@
         <mxCell id="taBp6n9vuw_WI2dwofqP-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;$$(\frac {-ψ_f}{L_d},0)$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="288" y="358" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="okNyAJH1k5FmLWhLeBXk-1" value="" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#9999FF;" vertex="1" parent="1">
+          <mxGeometry x="680" y="100" width="79.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="okNyAJH1k5FmLWhLeBXk-2" value="恒转矩曲线，从下到上递增" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="759.5" y="90" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="okNyAJH1k5FmLWhLeBXk-3" value="" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="680" y="134" width="79.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="okNyAJH1k5FmLWhLeBXk-4" value="电流极限圆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760.5" y="124" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="okNyAJH1k5FmLWhLeBXk-5" value="" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#7EA6E0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="681" y="164" width="79.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="okNyAJH1k5FmLWhLeBXk-6" value="电压椭圆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760.5" y="154" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="okNyAJH1k5FmLWhLeBXk-7" value="" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#A680B8;" vertex="1" parent="1">
+          <mxGeometry x="680" y="194" width="79.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="okNyAJH1k5FmLWhLeBXk-8" value="MTPV 曲线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="184" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="okNyAJH1k5FmLWhLeBXk-9" value="" style="line;strokeWidth=2;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;strokeColor=#FF1A12;" vertex="1" parent="1">
+          <mxGeometry x="681" y="223" width="79.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="okNyAJH1k5FmLWhLeBXk-10" value="MTPA 曲线" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="770" y="215" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
