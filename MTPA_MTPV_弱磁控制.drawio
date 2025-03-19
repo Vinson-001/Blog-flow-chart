@@ -259,6 +259,15 @@
         <mxCell id="hBV_iAxKv82e9rJ_vRa_-10" value="c" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="323" y="350" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="cBX_KyE6mDHk8g3S2tJu-1" value="$$c(\frac {-ψ_f}{L_d},0)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="257" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cBX_KyE6mDHk8g3S2tJu-2" value="" style="endArrow=classic;html=1;rounded=0;curved=1;exitX=0.567;exitY=-0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.8;entryY=1.117;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hBV_iAxKv82e9rJ_vRa_-10" target="cBX_KyE6mDHk8g3S2tJu-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="291" as="sourcePoint" />
+            <mxPoint x="235" y="241" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
