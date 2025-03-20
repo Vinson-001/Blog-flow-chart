@@ -175,81 +175,81 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7kU6y_8HvUw-URd1PMr5-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6E6E6;strokeColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="230" y="220" width="570" height="140" as="geometry" />
+          <mxGeometry x="159" y="320" width="570" height="140" as="geometry" />
         </mxCell>
         <mxCell id="7kU6y_8HvUw-URd1PMr5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7kU6y_8HvUw-URd1PMr5-1" target="7kU6y_8HvUw-URd1PMr5-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7kU6y_8HvUw-URd1PMr5-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;startFill=1;startArrow=classic;" edge="1" parent="1" source="7kU6y_8HvUw-URd1PMr5-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="260" as="targetPoint" />
+            <mxPoint x="109" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7kU6y_8HvUw-URd1PMr5-1" value="2. 电流控制策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="240" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="169" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7kU6y_8HvUw-URd1PMr5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7kU6y_8HvUw-URd1PMr5-2" target="7kU6y_8HvUw-URd1PMr5-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7kU6y_8HvUw-URd1PMr5-2" value="3. 控制算法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="440" y="240" width="80" height="40" as="geometry" />
+          <mxGeometry x="369" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7kU6y_8HvUw-URd1PMr5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7kU6y_8HvUw-URd1PMr5-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="330" as="targetPoint" />
+            <mxPoint x="609" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7kU6y_8HvUw-URd1PMr5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7kU6y_8HvUw-URd1PMr5-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="720" y="330" as="targetPoint" />
+            <mxPoint x="649" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7kU6y_8HvUw-URd1PMr5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7kU6y_8HvUw-URd1PMr5-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="330" as="targetPoint" />
+            <mxPoint x="569" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7kU6y_8HvUw-URd1PMr5-3" value="4. PWM 调制方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="600" y="240" width="160" height="40" as="geometry" />
+          <mxGeometry x="529" y="340" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7kU6y_8HvUw-URd1PMr5-5" value="电流指令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="230" width="70" height="30" as="geometry" />
+          <mxGeometry x="289" y="330" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7kU6y_8HvUw-URd1PMr5-7" value="电压指令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="230" width="70" height="30" as="geometry" />
+          <mxGeometry x="449" y="330" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7kU6y_8HvUw-URd1PMr5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="619" y="329" as="targetPoint" />
-            <mxPoint x="619" y="279" as="sourcePoint" />
+            <mxPoint x="548" y="429" as="targetPoint" />
+            <mxPoint x="548" y="379" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7kU6y_8HvUw-URd1PMr5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="661" y="330" as="targetPoint" />
-            <mxPoint x="661" y="280" as="sourcePoint" />
+            <mxPoint x="590" y="430" as="targetPoint" />
+            <mxPoint x="590" y="380" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7kU6y_8HvUw-URd1PMr5-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="699" y="330" as="targetPoint" />
-            <mxPoint x="699" y="280" as="sourcePoint" />
+            <mxPoint x="628" y="430" as="targetPoint" />
+            <mxPoint x="628" y="380" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7kU6y_8HvUw-URd1PMr5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="739" y="330" as="targetPoint" />
-            <mxPoint x="739" y="280" as="sourcePoint" />
+            <mxPoint x="668" y="430" as="targetPoint" />
+            <mxPoint x="668" y="380" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7kU6y_8HvUw-URd1PMr5-18" value="开关信号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="640" y="330" width="70" height="30" as="geometry" />
+          <mxGeometry x="569" y="430" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7kU6y_8HvUw-URd1PMr5-21" value="转矩指令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="160" y="230" width="70" height="30" as="geometry" />
+          <mxGeometry x="89" y="330" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7kU6y_8HvUw-URd1PMr5-22" value="1. 电机控制技术框架" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="410" y="320" width="130" height="30" as="geometry" />
+          <mxGeometry x="339" y="420" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
