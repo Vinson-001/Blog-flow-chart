@@ -757,13 +757,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="a2H2XSVkQa-RJCJYSBU2-85" value="恒功率运行(弱磁I区域)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="444" y="900" width="140" height="30" as="geometry" />
+          <mxGeometry x="435" y="915" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a2H2XSVkQa-RJCJYSBU2-86" value="P" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="453" y="830" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a2H2XSVkQa-RJCJYSBU2-87" value="最大功率输出运行（弱磁II 区）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="980" width="190" height="30" as="geometry" />
+          <mxGeometry x="508" y="1017" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a2H2XSVkQa-RJCJYSBU2-88" value="$$ω_{r2}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="1078" width="80" height="30" as="geometry" />
@@ -779,6 +779,15 @@
         </mxCell>
         <mxCell id="a2H2XSVkQa-RJCJYSBU2-93" value="恒功率下的最大转速" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="41" y="920" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a2H2XSVkQa-RJCJYSBU2-94" value="" style="endArrow=none;html=1;rounded=0;curved=1;strokeColor=#FF1A12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="521" y="862" as="sourcePoint" />
+            <mxPoint x="702" y="1039" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="575" y="957" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
