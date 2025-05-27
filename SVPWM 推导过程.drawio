@@ -85,8 +85,8 @@
             <mxPoint x="360" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZCoVLuQZG-VMDDXFzoyv-53" value="$$u_1 = \frac {T_1}{T_s} U1$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="185" y="328" width="190" height="30" as="geometry" />
+        <mxCell id="ZCoVLuQZG-VMDDXFzoyv-53" value="$$u_1 = \frac {T_1}{T_s} U_1$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="187" y="330" width="187" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ZCoVLuQZG-VMDDXFzoyv-54" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -100,8 +100,8 @@
             <mxPoint x="260" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZCoVLuQZG-VMDDXFzoyv-56" value="$$u_2 = \frac {T_2}{T_s} U1$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="155" y="170" width="190" height="30" as="geometry" />
+        <mxCell id="ZCoVLuQZG-VMDDXFzoyv-56" value="$$u_2 = \frac {T_2}{T_s} U_2$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="157" y="172" width="187" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ZCoVLuQZG-VMDDXFzoyv-57" value="θ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="212" y="296" width="30" height="30" as="geometry" />
