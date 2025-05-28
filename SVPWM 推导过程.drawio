@@ -374,7 +374,7 @@
           <mxGeometry x="465" y="473" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZCoVLuQZG-VMDDXFzoyv-138" value="&lt;font style=&quot;color: rgb(166, 128, 184);&quot;&gt;uβ&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="659" y="620" width="40" height="30" as="geometry" />
+          <mxGeometry x="667" y="570" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZCoVLuQZG-VMDDXFzoyv-139" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#FF1A12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -416,7 +416,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZCoVLuQZG-VMDDXFzoyv-146" value="$$u_5 = \frac {T_5}{T_s} U_5$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="158" y="790" width="190" height="30" as="geometry" />
+          <mxGeometry x="519" y="600" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZCoVLuQZG-VMDDXFzoyv-147" value="$$\frac {\pi}{3}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="479" y="510" width="110" height="30" as="geometry" />
