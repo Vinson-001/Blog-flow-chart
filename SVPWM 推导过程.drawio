@@ -523,8 +523,8 @@
         <mxCell id="ZCoVLuQZG-VMDDXFzoyv-170" value="$$\frac {\pi}{3}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="199" y="780" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZCoVLuQZG-VMDDXFzoyv-171" value="IV 区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="88" y="879" width="50" height="30" as="geometry" />
+        <mxCell id="ZCoVLuQZG-VMDDXFzoyv-171" value="V 区" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="93" y="881" width="41" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ZCoVLuQZG-VMDDXFzoyv-172" value="&lt;font style=&quot;color: rgb(126, 166, 224);&quot;&gt;U5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="172" y="949" width="40" height="30" as="geometry" />
@@ -561,6 +561,12 @@
         </mxCell>
         <mxCell id="ZCoVLuQZG-VMDDXFzoyv-179" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.09594469696408577;endAngle=0.2961305016072695;direction=west;" vertex="1" parent="1">
           <mxGeometry x="264" y="769" width="30" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCoVLuQZG-VMDDXFzoyv-180" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.23413724128472324;endAngle=0.375;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="154" y="599" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCoVLuQZG-VMDDXFzoyv-181" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.23413724128472324;endAngle=0.375;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="549" y="474" width="30" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
