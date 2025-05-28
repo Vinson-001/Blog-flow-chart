@@ -667,8 +667,8 @@
             <mxPoint x="690" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZCoVLuQZG-VMDDXFzoyv-203" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.09594469696408577;endAngle=0.2961305016072695;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="544" y="770" width="30" height="31" as="geometry" />
+        <mxCell id="ZCoVLuQZG-VMDDXFzoyv-203" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.09594469696408577;endAngle=0.3850596797336593;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="648" y="778" width="30" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
