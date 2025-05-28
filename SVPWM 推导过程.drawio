@@ -518,7 +518,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZCoVLuQZG-VMDDXFzoyv-169" value="$$u_5 = \frac {T_5}{T_s} U_5$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="544" y="890" width="190" height="30" as="geometry" />
+          <mxGeometry x="101" y="860" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZCoVLuQZG-VMDDXFzoyv-170" value="$$\frac {\pi}{3}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="439" y="720" width="110" height="30" as="geometry" />
@@ -541,7 +541,7 @@
             <mxPoint x="313" y="845" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZCoVLuQZG-VMDDXFzoyv-175" value="$$u_4 = \frac {T_4}{T_s} U_4$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="ZCoVLuQZG-VMDDXFzoyv-175" value="$$u_6 = \frac {T_6}{T_s} U_6$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="299" y="1000" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZCoVLuQZG-VMDDXFzoyv-176" value="&lt;font style=&quot;color: rgb(126, 166, 224);&quot;&gt;U6&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -550,7 +550,7 @@
         <mxCell id="ZCoVLuQZG-VMDDXFzoyv-177" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#A680B8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="281" y="779" as="sourcePoint" />
-            <mxPoint x="281" y="859" as="targetPoint" />
+            <mxPoint x="281" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZCoVLuQZG-VMDDXFzoyv-178" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
