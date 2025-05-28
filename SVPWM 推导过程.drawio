@@ -440,7 +440,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZCoVLuQZG-VMDDXFzoyv-152" value="$$u_4 = \frac {T_4}{T_s} U_4$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="455" y="410" width="190" height="30" as="geometry" />
+          <mxGeometry x="479" y="473" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZCoVLuQZG-VMDDXFzoyv-153" value="&lt;font style=&quot;color: rgb(126, 166, 224);&quot;&gt;U4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="432" y="477" width="33" height="26" as="geometry" />
