@@ -72,7 +72,7 @@
         <mxCell id="GK6LHHyNofFlqoM5Labt-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GK6LHHyNofFlqoM5Labt-25" target="GK6LHHyNofFlqoM5Labt-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GK6LHHyNofFlqoM5Labt-25" value="CMSIS DAP Link&lt;div&gt;解析RTT 控制块&lt;/div&gt;&lt;div&gt;通过usb 端点发出&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="GK6LHHyNofFlqoM5Labt-25" value="CMSIS DAP Link&lt;div&gt;解析RTT 控制块&lt;/div&gt;&lt;div&gt;通过usb in 端点发出&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="240" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GK6LHHyNofFlqoM5Labt-27" value="SWD/JTAG&lt;div&gt;物理访问&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -81,8 +81,29 @@
         <mxCell id="GK6LHHyNofFlqoM5Labt-28" value="jlink 是自定义驱动&lt;div&gt;dap 是虚拟的cdc 串口&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="470" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GK6LHHyNofFlqoM5Labt-29" value="串口直接接收数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="GK6LHHyNofFlqoM5Labt-29" value="&lt;div&gt;PC&lt;/div&gt;串口直接接收数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="480" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GK6LHHyNofFlqoM5Labt-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GK6LHHyNofFlqoM5Labt-33" target="GK6LHHyNofFlqoM5Labt-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GK6LHHyNofFlqoM5Labt-33" value="MCU&lt;div&gt;写入RTT 控制块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GK6LHHyNofFlqoM5Labt-35" value="CMSIS DAP Link&lt;div&gt;打包RTT 控制块&lt;/div&gt;&lt;div&gt;通过SWD/JTAG 发送&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GK6LHHyNofFlqoM5Labt-36" value="SWD/JTAG&lt;div&gt;物理访问&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="530" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GK6LHHyNofFlqoM5Labt-37" value="jlink 是自定义驱动&lt;div&gt;dap 是虚拟的cdc 串口&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="590" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GK6LHHyNofFlqoM5Labt-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GK6LHHyNofFlqoM5Labt-38" target="GK6LHHyNofFlqoM5Labt-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GK6LHHyNofFlqoM5Labt-38" value="&lt;div&gt;PC&lt;/div&gt;串口直接接收数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
