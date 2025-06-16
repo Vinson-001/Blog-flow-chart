@@ -18,7 +18,7 @@
           <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GK6LHHyNofFlqoM5Labt-5" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.usb" vertex="1" parent="1">
-          <mxGeometry x="400" y="300" width="50" height="23" as="geometry" />
+          <mxGeometry x="389" y="290" width="50" height="23" as="geometry" />
         </mxCell>
         <mxCell id="GK6LHHyNofFlqoM5Labt-9" value="USB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="389" y="218" width="50" height="30" as="geometry" />
