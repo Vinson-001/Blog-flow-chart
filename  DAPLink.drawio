@@ -14,7 +14,7 @@
             <mxPoint x="470" y="285" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GK6LHHyNofFlqoM5Labt-1" value="CMSIS DAP Link" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GK6LHHyNofFlqoM5Labt-1" value="CMSIS DAP Link" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GK6LHHyNofFlqoM5Labt-5" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.usb" vertex="1" parent="1">
@@ -33,7 +33,7 @@
             <mxPoint x="650" y="285" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GK6LHHyNofFlqoM5Labt-10" value="PC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GK6LHHyNofFlqoM5Labt-10" value="PC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="480" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GK6LHHyNofFlqoM5Labt-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="GK6LHHyNofFlqoM5Labt-12" target="GK6LHHyNofFlqoM5Labt-1">
@@ -42,7 +42,7 @@
         <mxCell id="GK6LHHyNofFlqoM5Labt-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="GK6LHHyNofFlqoM5Labt-12" target="GK6LHHyNofFlqoM5Labt-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GK6LHHyNofFlqoM5Labt-12" value="MCU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GK6LHHyNofFlqoM5Labt-12" value="MCU" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="240" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GK6LHHyNofFlqoM5Labt-15" value="SWD/JTAG" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -62,6 +62,27 @@
         </mxCell>
         <mxCell id="GK6LHHyNofFlqoM5Labt-23" value="数据流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GK6LHHyNofFlqoM5Labt-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GK6LHHyNofFlqoM5Labt-24" target="GK6LHHyNofFlqoM5Labt-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GK6LHHyNofFlqoM5Labt-24" value="MCU&lt;div&gt;写入RTT 控制块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GK6LHHyNofFlqoM5Labt-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GK6LHHyNofFlqoM5Labt-25" target="GK6LHHyNofFlqoM5Labt-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GK6LHHyNofFlqoM5Labt-25" value="CMSIS DAP Link&lt;div&gt;解析RTT 控制块&lt;/div&gt;&lt;div&gt;通过usb 端点发出&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GK6LHHyNofFlqoM5Labt-27" value="SWD/JTAG&lt;div&gt;物理访问&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="410" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GK6LHHyNofFlqoM5Labt-28" value="jlink 是自定义驱动&lt;div&gt;dap 是虚拟的cdc 串口&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="470" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GK6LHHyNofFlqoM5Labt-29" value="串口直接接收数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
