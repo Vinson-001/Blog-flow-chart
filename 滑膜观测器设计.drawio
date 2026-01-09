@@ -26,9 +26,6 @@
         <mxCell id="SjjzqH73fq_cl4btp1Vq-4" value="$$i_s$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="281.72" y="200" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SjjzqH73fq_cl4btp1Vq-5" value="$$\frac {1}{R+sL}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="160" y="220" width="130" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="SjjzqH73fq_cl4btp1Vq-9" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="351.7157287525381" y="210.7157287525381" width="56.568542494923804" height="56.568542494923804" as="geometry" />
         </mxCell>
@@ -56,17 +53,17 @@
             <mxPoint x="379" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SjjzqH73fq_cl4btp1Vq-10" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;$$\frac {1}{R+sL}$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="160" y="320" width="130" height="80" as="geometry" />
+        <mxCell id="SjjzqH73fq_cl4btp1Vq-10" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;$$\frac {d}{dt}\hat{i_s} = -\frac RL \hat{i_s}+\frac1L(V_s-\hat{e_s} -z)$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="130" y="320" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SjjzqH73fq_cl4btp1Vq-11" value="$$V_s$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="55" y="200" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SjjzqH73fq_cl4btp1Vq-13" value="电机模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="160" width="70" height="30" as="geometry" />
+        <mxCell id="SjjzqH73fq_cl4btp1Vq-13" value="电机模型&lt;div&gt;硬件&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="225" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SjjzqH73fq_cl4btp1Vq-16" value="$$\hat{i_s}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="265" y="328" width="90" height="30" as="geometry" />
+          <mxGeometry x="351.72" y="330" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SjjzqH73fq_cl4btp1Vq-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SjjzqH73fq_cl4btp1Vq-17" target="SjjzqH73fq_cl4btp1Vq-18">
           <mxGeometry relative="1" as="geometry" />
@@ -94,10 +91,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SjjzqH73fq_cl4btp1Vq-27" value="$$\hat{i_s} - i_s$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="190" width="120" height="30" as="geometry" />
+          <mxGeometry x="354" y="267.28" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SjjzqH73fq_cl4btp1Vq-28" value="z" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="585" y="370" width="30" height="30" as="geometry" />
+          <mxGeometry x="470" y="380" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SjjzqH73fq_cl4btp1Vq-29" value="滑动控制器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="120" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
