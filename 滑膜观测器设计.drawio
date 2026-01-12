@@ -222,7 +222,7 @@
         <mxCell id="H_aklAtOckOnBJSMz8ey-30" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="1">
           <mxGeometry x="600" y="160" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H_aklAtOckOnBJSMz8ey-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H_aklAtOckOnBJSMz8ey-33" value="SMC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H_aklAtOckOnBJSMz8ey-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="H_aklAtOckOnBJSMz8ey-33" target="H_aklAtOckOnBJSMz8ey-30">
