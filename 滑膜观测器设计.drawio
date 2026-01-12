@@ -103,7 +103,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-taF9bC33977SvUMDICj" name="第 2 页">
-    <mxGraphModel dx="946" dy="563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="1">
+    <mxGraphModel dx="946" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -298,6 +298,12 @@
         </mxCell>
         <mxCell id="H_aklAtOckOnBJSMz8ey-57" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="414" y="268" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H_aklAtOckOnBJSMz8ey-61" value="$$err_{iα}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="178" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="H_aklAtOckOnBJSMz8ey-62" value="$$err_{iβ}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="453" y="272" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
