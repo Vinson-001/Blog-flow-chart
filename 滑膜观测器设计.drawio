@@ -471,14 +471,33 @@
         <mxCell id="Y3IzHnAp01mWTB70L0V_-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Y3IzHnAp01mWTB70L0V_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="Y3IzHnAp01mWTB70L0V_-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Y3IzHnAp01mWTB70L0V_-4" value="$$sin()$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3IzHnAp01mWTB70L0V_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="Y3IzHnAp01mWTB70L0V_-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Y3IzHnAp01mWTB70L0V_-5" value="$$cos()$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y3IzHnAp01mWTB70L0V_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y3IzHnAp01mWTB70L0V_-6" target="Y3IzHnAp01mWTB70L0V_-20">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3IzHnAp01mWTB70L0V_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y3IzHnAp01mWTB70L0V_-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="220" />
+              <mxPoint x="460" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Y3IzHnAp01mWTB70L0V_-6" value="$$k_p+ \frac{k_i}{s}$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="80" height="40" as="geometry" />
@@ -526,6 +545,9 @@
         </mxCell>
         <mxCell id="Y3IzHnAp01mWTB70L0V_-24" value="$$\hat{ω_e}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="410" y="219" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3IzHnAp01mWTB70L0V_-28" value="$$\hat{ω_e}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="585" y="148" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
