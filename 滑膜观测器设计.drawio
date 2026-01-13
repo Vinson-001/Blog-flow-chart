@@ -445,7 +445,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jenbiCK1Js4osZtuTt5p" name="pll 转子速度/位置检测系统">
-    <mxGraphModel dx="946" dy="563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="1">
+    <mxGraphModel dx="946" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -611,6 +611,9 @@
         </mxCell>
         <mxCell id="Y3IzHnAp01mWTB70L0V_-43" value="-" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="298" y="236" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3IzHnAp01mWTB70L0V_-44" value="$$Δe$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="191" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
