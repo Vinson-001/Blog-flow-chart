@@ -458,11 +458,14 @@
         <mxCell id="Y3IzHnAp01mWTB70L0V_-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.or;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y3IzHnAp01mWTB70L0V_-4" value="sin()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y3IzHnAp01mWTB70L0V_-4" value="$$sin()$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="120" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Y3IzHnAp01mWTB70L0V_-5" value="cos()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Y3IzHnAp01mWTB70L0V_-5" value="$$cos()$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y3IzHnAp01mWTB70L0V_-6" value="$$k_p+ \frac{k_i}{s}$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
