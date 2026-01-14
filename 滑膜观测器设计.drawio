@@ -667,6 +667,12 @@
         <mxCell id="ExyhzgHGxBTRhWpQA6Wd-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;autosize=1;resizable=0;" value="-" vertex="1">
           <mxGeometry height="30" width="30" x="179" y="550" as="geometry" />
         </mxCell>
+        <mxCell id="ExyhzgHGxBTRhWpQA6Wd-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;autosize=1;resizable=0;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;基于 PLL&amp;nbsp; 系统的SMO 等效框图&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="280" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="ExyhzgHGxBTRhWpQA6Wd-19" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="$$Δθ$$" vertex="1">
+          <mxGeometry height="30" width="60" x="223" y="510" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
