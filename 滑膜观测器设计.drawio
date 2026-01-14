@@ -658,6 +658,15 @@
         <mxCell id="ExyhzgHGxBTRhWpQA6Wd-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;autosize=1;resizable=0;" value="$$θ_e$$" vertex="1">
           <mxGeometry height="30" width="90" x="125" y="510" as="geometry" />
         </mxCell>
+        <mxCell id="ExyhzgHGxBTRhWpQA6Wd-14" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="$$\hat{θ_e}$$" vertex="1">
+          <mxGeometry height="30" width="100" x="540" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="ExyhzgHGxBTRhWpQA6Wd-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;autosize=1;resizable=0;" value="+" vertex="1">
+          <mxGeometry height="30" width="30" x="179" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="ExyhzgHGxBTRhWpQA6Wd-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;autosize=1;resizable=0;" value="-" vertex="1">
+          <mxGeometry height="30" width="30" x="179" y="550" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
