@@ -806,13 +806,13 @@
           <mxGeometry height="30" width="70" x="-4" y="-510" as="geometry" />
         </mxCell>
         <mxCell id="B5cRQa8lCH26PCSvsnDd-39" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="+" vertex="1">
-          <mxGeometry height="30" width="30" x="-24" y="-500" as="geometry" />
+          <mxGeometry height="30" width="30" x="-4" y="-490" as="geometry" />
         </mxCell>
         <mxCell id="B5cRQa8lCH26PCSvsnDd-40" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="-" vertex="1">
           <mxGeometry height="30" width="30" x="1" y="-467" as="geometry" />
         </mxCell>
         <mxCell id="B5cRQa8lCH26PCSvsnDd-41" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="$$\hat{e_α}$$" vertex="1">
-          <mxGeometry height="30" width="100" x="170" y="-600" as="geometry" />
+          <mxGeometry height="30" width="100" x="-74" y="-467" as="geometry" />
         </mxCell>
         <mxCell id="B5cRQa8lCH26PCSvsnDd-42" edge="1" parent="1" source="B5cRQa8lCH26PCSvsnDd-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="B5cRQa8lCH26PCSvsnDd-44">
           <mxGeometry relative="1" as="geometry" />
