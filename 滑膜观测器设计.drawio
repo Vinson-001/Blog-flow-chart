@@ -707,7 +707,7 @@
           <mxGeometry height="30" width="70" x="-459" y="-520" as="geometry" />
         </mxCell>
         <mxCell id="B5cRQa8lCH26PCSvsnDd-8" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="$$e_α$$" vertex="1">
-          <mxGeometry height="30" width="70" x="-479" y="-492" as="geometry" />
+          <mxGeometry height="30" width="70" x="-479" y="-497" as="geometry" />
         </mxCell>
         <mxCell id="B5cRQa8lCH26PCSvsnDd-9" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="+" vertex="1">
           <mxGeometry height="30" width="30" x="-389" y="-500" as="geometry" />
