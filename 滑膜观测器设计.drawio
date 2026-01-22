@@ -1061,8 +1061,8 @@
             <mxPoint x="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WdFXrGW7qnMiyeBzBCpg-4" parent="WdFXrGW7qnMiyeBzBCpg-14" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="显示区" vertex="1">
-          <mxGeometry height="30" width="60" x="60" y="50" as="geometry" />
+        <mxCell id="WdFXrGW7qnMiyeBzBCpg-4" parent="WdFXrGW7qnMiyeBzBCpg-14" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="波形显示区" vertex="1">
+          <mxGeometry height="30" width="80" x="50" y="50" as="geometry" />
         </mxCell>
         <mxCell id="WdFXrGW7qnMiyeBzBCpg-15" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="80" width="160" x="640" y="320" as="geometry" />
@@ -1085,8 +1085,8 @@
             <mxPoint x="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WdFXrGW7qnMiyeBzBCpg-13" parent="WdFXrGW7qnMiyeBzBCpg-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="显示区" vertex="1">
-          <mxGeometry height="30" width="60" x="60" y="50" as="geometry" />
+        <mxCell id="WdFXrGW7qnMiyeBzBCpg-13" parent="WdFXrGW7qnMiyeBzBCpg-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="波形显示区" vertex="1">
+          <mxGeometry height="30" width="80" x="50" y="50" as="geometry" />
         </mxCell>
         <mxCell id="WdFXrGW7qnMiyeBzBCpg-17" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="80" width="160" x="280" y="320" as="geometry" />
