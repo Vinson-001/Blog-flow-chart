@@ -1109,8 +1109,8 @@
             <mxPoint x="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WdFXrGW7qnMiyeBzBCpg-21" parent="WdFXrGW7qnMiyeBzBCpg-17" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="显示区缓存" vertex="1">
-          <mxGeometry height="30" width="80" x="50" y="50" as="geometry" />
+        <mxCell id="WdFXrGW7qnMiyeBzBCpg-21" parent="WdFXrGW7qnMiyeBzBCpg-17" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="显示区缓存长度" vertex="1">
+          <mxGeometry height="30" width="110" x="35" y="50" as="geometry" />
         </mxCell>
         <mxCell id="WdFXrGW7qnMiyeBzBCpg-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
