@@ -1144,6 +1144,18 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TYDh7GOQirwfb7iVhjuZ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="算法" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDh7GOQirwfb7iVhjuZ-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="平台 &amp;amp; 工具" vertex="1">
+          <mxGeometry height="30" width="70" x="265" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDh7GOQirwfb7iVhjuZ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="方案" vertex="1">
+          <mxGeometry height="30" width="70" x="260" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TYDh7GOQirwfb7iVhjuZ-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="市场 &amp;amp; 需求" vertex="1">
+          <mxGeometry height="30" width="70" x="260" y="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
