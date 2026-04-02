@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="coTacj8Nhz8aGRodBRxR-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VBus" vertex="1">
-          <mxGeometry height="30" width="60" x="58" y="290" as="geometry" />
+          <mxGeometry height="30" width="60" x="58" y="280" as="geometry" />
         </mxCell>
         <mxCell id="coTacj8Nhz8aGRodBRxR-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ADC1_7" vertex="1">
           <mxGeometry height="30" width="60" x="140" y="270" as="geometry" />
